@@ -6,7 +6,7 @@
 
 .one-movement {
   animation: move 3s;
-  -webkit-animation: move 3s;
+  -webkit-animation: move 300s;
  // color:pink;
 }
 @keyframes move {
