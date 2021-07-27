@@ -5,7 +5,7 @@
 }
 
 .one-movement {
-  animation: move 3s;
+  animation: move 300s;
   -webkit-animation: move 300s;
  // color:pink;
 }
