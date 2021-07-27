@@ -19,7 +19,9 @@ border: 10px solid white;
         -moz-border-radius: 10px;
 
 
-background: radial-gradient(white, #FFA9A1);
+
+height: 200px;
+background: linear-gradient(to right, #F6EFD2, #CEAD78);
 }
 /*header {
     flex: 0 0 100px;
