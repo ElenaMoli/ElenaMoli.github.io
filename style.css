@@ -26,6 +26,14 @@ body {
 height: 200px;
 background: linear-gradient(to right, #C06CB4, #6C5B7B);
 }
+
+.gradient-text{
+    background: linear-gradient(to bottom right, #39dfa5, #1fbdf2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
 /*header {
     flex: 0 0 100px;
     background: green;
