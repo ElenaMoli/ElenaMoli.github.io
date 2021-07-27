@@ -4,47 +4,6 @@
   box-sizing: border-box;
 }
 
-.one-movement {
-  animation: move 300s;
-  -webkit-animation: move 300s;
- // color:pink;
-}
-@keyframes move {
-  from {
-  margin-left: 100%;
-  width: 300%;  
-  }
-
-  to {
-  margin-left: 0%;
-  width: 100%;
-  }
-}
-   
-@-webkit-keyframes move {
-  from {
-  margin-left: 100%;
-  width: 300%;  
-  }
-
-  to {
-  margin-left: 0%;
-  width: 100%;
-  }
-}
-
-.gradient-text {
-  font-family: 'Rubik One', sans-serif;
-  font-size: 50px;
-  text-transform: uppercase;
-  background: linear-gradient(45deg, #FEB195 33%, #F67280 66%, #C06C84);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: #0B2349;
-  display: table;
-  margin: 20px auto;
-}
-
 /*body {
     display: flex;
     flex-flow: column nowrap;
@@ -75,16 +34,9 @@
 
 height: 200px;
 //background: linear-gradient(to right, #C06CB4, #6C5B7B);
-  background: #e9e9e9;
+//  background: #e9e9e9;
 }
 
-.gradient-text{
-    background: linear-gradient(to bottom right, #39dfa5, #1fbdf2);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    text-fill-color: transparent;
-}
 /*header {
     flex: 0 0 100px;
     background: green;
