@@ -1,7 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik+One&subset=latin,cyrillic);
+
 body,html{height:100%;margin:0;padding:0;background:#E3DFD2}
 svg{
-  background-image: url("postcard.png");
+  background:url('https://farm9.staticflickr.com/8760/17195790401_ceeeafcddb_o.jpg');
   background-size:cover;
   width:40vmin; height:auto;
   display:block;
@@ -15,7 +16,7 @@ text{
 }
 svg:hover text{
   transition:font-size .4s ease-in;
-  font-size: 40px;
+  font-size: 300px;
 }
 
 
