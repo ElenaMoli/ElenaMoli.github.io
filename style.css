@@ -18,7 +18,7 @@ border: 10px solid white;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
 
-background: linear-gradient(to top, #F5F5DC 0%, #32CD32 100%);
+background: linear-gradient(to top, #66CDAA 0%, #20B2AA 100%);
 }
 /*header {
     flex: 0 0 100px;
