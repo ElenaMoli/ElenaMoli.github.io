@@ -6,7 +6,7 @@ $(document).ready(function(){
   var $data = 0;
   var index;
   var change;
-  var letters = ["H", "A", "P", "P", "Y", "B", "I", "R", "T", "H", "D", "A", "Y"];
+  var letters = ["c", "o", "d", "e", "p", "e", "n", ".", "i", "o"];
   
   $randomnbr.each(function(){
       
@@ -41,4 +41,3 @@ $(document).ready(function(){
   $it = setInterval(value, $timer);
     
 });
-
