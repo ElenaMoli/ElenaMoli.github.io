@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.one-movement {
+  color:pink;
+}
+
 .gradient-text {
   font-family: 'Rubik One', sans-serif;
   font-size: 50px;
