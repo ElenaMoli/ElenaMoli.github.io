@@ -10,7 +10,7 @@ svg{
 text{
   font-size:10px;
   transition:font-size .4s ease-out;
-  font-weight:9000;
+  font-weight:900;
   font-family:arial;
 }
 svg:hover text{
@@ -36,7 +36,7 @@ html .content, body .content {
   transform: translateY(-50%);
 }
 html .content span, body .content span {
-  width: 30px;
+  width: 300px;
   display: inline-block;
 }
 
