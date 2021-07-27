@@ -10,7 +10,7 @@ svg{
 text{
   font-size:10px;
   transition:font-size .4s ease-out;
-  font-weight:900;
+  font-weight:9000;
   font-family:arial;
 }
 svg:hover text{
