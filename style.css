@@ -4,7 +4,7 @@ body,html{height:100%;margin:0;padding:0;background:#E3DFD2}
 svg{
   background:url('postcard.png');
   background-size:cover;
-  width:50vmin; height:auto;
+  width:30vmin; height:auto;
   display:block;
 //  margin:30vmin auto;
 }
