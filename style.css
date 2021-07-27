@@ -18,7 +18,8 @@ border: 10px solid white;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
 
-background: linear-gradient(to top, #F0F8FF 0%, #F8F8FF 100%);
+
+background: radial-gradient(white, #FFA9A1);
 }
 /*header {
     flex: 0 0 100px;
