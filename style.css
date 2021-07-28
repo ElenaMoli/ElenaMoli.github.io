@@ -2,12 +2,6 @@
 
 body,html{height:100%;margin:0;padding:0;background:#E3DFD2}
 
-.content{
-   position:absolute;
-left:20%;
-top:40%;
-}
-
 .main {
   position:absolute;
 right:20%;
@@ -43,11 +37,6 @@ svg:hover text{
 }
 
 html, body {
-   
-   left:20%;
-top:40%;
-   
-   
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -59,7 +48,9 @@ top:40%;
   width: 100%;
   height: 100%;
 }
-html .content, body .content {
+html .content, body .content {   
+  left:20%;
+  top:40%;
   text-align: left;
   position: relative;
   top: 50%;
