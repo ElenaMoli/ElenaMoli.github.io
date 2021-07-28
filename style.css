@@ -63,10 +63,6 @@ html .content span, body .content span {
   display: inline-block;
 }
 
-.content_2{
-  size:3px;
-}
-
 /*body {
     display: flex;
     flex-flow: column nowrap;
