@@ -2,7 +2,7 @@
 
 body,html{height:100%;margin:0;padding:0;background:#E3DFD2}
 svg{
-  background:url('postcard.png');
+  background:url('envelope.png');
   background-size:cover;
   width:30vmin; height:auto;
   display:block;
