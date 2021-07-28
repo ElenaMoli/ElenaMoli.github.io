@@ -5,7 +5,7 @@ svg{
   background:url('envelope.png');
   min-width: 100%;
   background-size:cover;
-  width:30vmin; height:auto;
+  width:30vmin; height:50vmin;
   display:block;
 //  margin:30vmin auto;
   text-align:left;
