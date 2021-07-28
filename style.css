@@ -63,13 +63,6 @@ html .content span, body .content span {
   display: inline-block;
 }
 
-.content_2 {
-  text-align: left;
-  position: relative;
-  left:15%;
-  top: 60%;
-}
-
 /*body {
     display: flex;
     flex-flow: column nowrap;
