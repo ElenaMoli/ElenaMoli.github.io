@@ -1,7 +1,7 @@
 $(document).ready(function(){
   
   var $randomnbr = $('.nbr');
-  var $timer= 10;
+  var $timer= 40;
   var $it;
   var $data = 0;
   var index;
