@@ -63,12 +63,12 @@ html .content span, body .content span {
   display: inline-block;
 }
 
-.content_2 {
+/*.content_2 {
   text-align: left;
   position: relative;
   left:65%;
   top: 60%;
-}
+}*/
 
 /*body {
     display: flex;
