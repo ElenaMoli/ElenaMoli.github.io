@@ -63,7 +63,7 @@ html .content, body .content {
   transform: translateY(-50%);
 }
 html .content span, body .content span {
-  width: 50px;
+  width: 60px;
   display: inline-block;
 }
 
