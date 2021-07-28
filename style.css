@@ -2,10 +2,15 @@
 
 body,html{height:100%;margin:0;padding:0;background:#E3DFD2}
 
+.content{
+left:20%;
+top:50%;
+}
+
 .main {
   position:absolute;
 right:20%;
-top:20%;
+top:50%;
 //  text-align: right;
 }
 
