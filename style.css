@@ -26,10 +26,6 @@ svg:hover text{
   box-sizing: border-box;
 }
 
-.content {
- text-align: left; 
-}
-
 html, body {
   margin: 0;
   padding: 0;
@@ -43,7 +39,7 @@ html, body {
   height: 100%;
 }
 html .content, body .content {
-  text-align: center;
+  text-align: left;
   position: relative;
   top: 50%;
   -ms-transform: translateY(-50%);
@@ -142,8 +138,8 @@ body {
   height: 100%;
   overflow: hidden;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: right;
+  align-items: right;
 }
 
 
