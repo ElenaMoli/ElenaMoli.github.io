@@ -53,7 +53,7 @@ html .content, body .content {
   text-align: left;
   position: relative;
   left:65%;
-  top: 45%;
+  top: 50%;
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
