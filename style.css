@@ -26,7 +26,7 @@
 		top: 0;
 		bottom: 0;
 		text-transform: uppercase;
-		font-size: 1vh;
+		font-size: 20vh;
 		font-family: sans-serif;
 		letter-spacing: 1px;
 		transition: all .5s cubic-bezier(0,0,0,1);
