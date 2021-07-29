@@ -5,6 +5,7 @@
 }
 
 .emblem {
+	display: inline-block;
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -37,8 +38,6 @@
 		font-family: sans-serif;
 		letter-spacing: 1px;
 		*/
-		position: absolute;
-		display: inline-block;
 		left: 0;
 		right: 0;
 		top: 0;
