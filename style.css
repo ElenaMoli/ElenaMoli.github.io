@@ -4,8 +4,8 @@
 
 .main {
 position:absolute;
-right:30%;
-top:53%;
+right:20%;
+top:30%;
 /* text-align: right;*/
 }
 
@@ -37,8 +37,8 @@ svg:hover text{
 html .content, body .content {   
   text-align: left;
   position: relative;
-  left:70%;
-  top: 30%;
+  left: 90%;
+  top: 47%;
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
