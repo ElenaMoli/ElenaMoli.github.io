@@ -21,10 +21,11 @@
 	font-size: 1vh;
 		font-family: sans-serif;
 		letter-spacing: 1px;
-	transition: all .5s cubic-bezier(0,0,0,1);
+	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
 }
-/*	span {
+	span {
+		/*
 		position: absolute;
 		display: inline-block;
 		left: 0;
@@ -35,8 +36,9 @@
 		font-size: 20vh;
 		font-family: sans-serif;
 		letter-spacing: 1px;
+		*/
 		transition: all .5s cubic-bezier(0,0,0,1);
-	}*/
+	}
 	@keyframes spinZ {
 		0% {
 			transform: rotateZ(360deg);
