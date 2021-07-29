@@ -46,7 +46,7 @@ $(document).ready(function(){
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //https://github.com/GeorgeHastings/emblem
-
+/*
 var Emblem = {
   init: function(el, str) {
     var element = document.querySelector(el);
@@ -67,4 +67,4 @@ var Emblem = {
   }
 };
 
-Emblem.init('.emblem');
+Emblem.init('.emblem');*/
