@@ -42,28 +42,7 @@ body {
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
 }
-	.content>span {
-		/*
-		position: absolute;
-		display: inline-block;
-		left: 0;
-		right: 0;
-		top: 0;
-		bottom: 0;
-		text-transform: uppercase;
-		font-size: 20vh;
-		font-family: sans-serif;
-		letter-spacing: 1px;
-		*/
-	        position: absolute;
-		display: inline-block;
-		left: 0;
-		right: 0;
-		top: 0;
-		bottom: 0;
-		text-transform: uppercase;
-		transition: all .5s cubic-bezier(0,0,0,1);
-}
+	
 	@keyframes spinZ {
 		0% {
 			transform: rotateZ(360deg);
