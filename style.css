@@ -26,8 +26,9 @@ body {
 	position: absolute;
 	left: 0;
 	right: 0;
-	bottom: 0;
-  top: 25vh;
+	bottom: 27vh;
+	top: 0;
+ /* top: 25vh;*/
 	margin: 0 auto;
 	width: 10vh;
 	height: 10vh;
