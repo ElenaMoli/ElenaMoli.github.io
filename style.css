@@ -34,7 +34,7 @@ body {
   font-weight: bold;
 	color:  #eee;
 	animation: spinZ 20s linear infinite;
-	/*text-align: center;*/
+	text-align: center;
 	/**/
 	font-size: 1vh;
 		font-family: sans-serif;
