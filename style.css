@@ -24,7 +24,7 @@
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
 }
-	span {
+	span:not(.nbr ltr) {
 		/*
 		position: absolute;
 		display: inline-block;
