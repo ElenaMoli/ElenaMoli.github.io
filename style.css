@@ -41,6 +41,7 @@ body {
 		letter-spacing: 1px;
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
+}
 	span {
 		/*
 		position: absolute;
@@ -71,7 +72,7 @@ body {
 			transform: rotateZ(0deg);
 		}
 	}
-}
+
 /*body,html{height:100%;margin:0;padding:0;background:#E3DFD2}*/
 
  /*body {
