@@ -24,7 +24,7 @@
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
 }
-	div:not([class*="nbr ltr"]) span{
+	:not([class*="nbr ltr"]) span{
 		/*
 		position: absolute;
 		display: inline-block;
