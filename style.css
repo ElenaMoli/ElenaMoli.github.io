@@ -76,6 +76,7 @@ html {
 }
 .content_2 {
  font-size: 2px; 
+ color: #eee;
 }
 
 html::before,
