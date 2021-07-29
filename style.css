@@ -15,13 +15,13 @@ svg{
   background:url('envelope.png');
   min-width: 100%;
   background-size:cover;
-  width:300vmin; height:auto;
+  width:30vmin; height:auto;
   display:block;
 //  margin:30vmin auto;
   text-align:right;
 }
 text{
-  font-size:7px;
+  font-size:700px;
   transition:font-size .4s ease-out;
   font-weight:900;
   font-family:arial;
