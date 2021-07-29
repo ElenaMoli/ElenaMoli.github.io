@@ -34,6 +34,7 @@ body {
 	color:  #eee;
 	animation: spinZ 20s linear infinite;
 	text-align: center;
+	visibility: hidden;
 	/**/
 	font-size: 1vh;
 		font-family: sans-serif;
