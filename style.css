@@ -63,7 +63,6 @@ body {
 		text-transform: uppercase;
 		transition: all .5s cubic-bezier(0,0,0,1);
 	}
-}
 	@keyframes spinZ {
 		0% {
 			transform: rotateZ(360deg);
@@ -72,6 +71,7 @@ body {
 			transform: rotateZ(0deg);
 		}
 	}
+}
 /*body,html{height:100%;margin:0;padding:0;background:#E3DFD2}*/
 
  /*body {
