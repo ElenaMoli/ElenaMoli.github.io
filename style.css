@@ -24,8 +24,9 @@ body {
 }
 .emblem {
 	position: absolute;
-	left: 0;
+	/*left: 0;*/
 	right: 0;
+	bottom: 0;
   top: 25vh;
 	margin: 0 auto;
 	width: 10vh;
@@ -57,9 +58,9 @@ body {
 		*/
 	        position: absolute;
 		display: inline-block;
-		left: 0;
+		/*left: 0;*/
 		right: 0;
-		top: 0;
+		/*top: 0;*/
 		bottom: 0;
 		text-transform: uppercase;
 		transition: all .5s cubic-bezier(0,0,0,1);
