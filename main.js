@@ -1,4 +1,4 @@
-/*$(document).ready(function(){
+$(document).ready(function(){
   
   var $randomnbr = $('.nbr');
   var $timer= 20;
@@ -40,11 +40,10 @@
   
   $it = setInterval(value, $timer);
     
-});*/
+});
 
 
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //https://github.com/GeorgeHastings/emblem
 
 var Emblem = {
