@@ -25,8 +25,8 @@ body {
 .emblem {
 	position: absolute;
 	left: 0;
-	right: 25vh;
-  bottom: 25vh;
+	right: 25%;
+  bottom: 25%;
 	margin: 0 auto;
 	width: 10vh;
 	height: 10vh;
