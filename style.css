@@ -73,6 +73,7 @@ html {
 }
 ///////////////////
 .content_1 {
+  letter-spacing: 10px;
   font-size: 10px;
   color: #eee;
 }
