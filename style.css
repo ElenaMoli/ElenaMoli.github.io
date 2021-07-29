@@ -41,8 +41,7 @@ body {
 		letter-spacing: 1px;
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
-}
-	:not([class*="nbr ltr"]) span{
+	span {
 		/*
 		position: absolute;
 		display: inline-block;
@@ -64,6 +63,7 @@ body {
 		text-transform: uppercase;
 		transition: all .5s cubic-bezier(0,0,0,1);
 	}
+}
 	@keyframes spinZ {
 		0% {
 			transform: rotateZ(360deg);
