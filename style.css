@@ -41,7 +41,6 @@ body {
 		letter-spacing: 1px;
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
-}
 	span {
 		/*
 		position: absolute;
@@ -63,7 +62,8 @@ body {
 		bottom: 0;
 		text-transform: uppercase;
 		transition: all .5s cubic-bezier(0,0,0,1);
-	}
+}
+}
 	@keyframes spinZ {
 		0% {
 			transform: rotateZ(360deg);
