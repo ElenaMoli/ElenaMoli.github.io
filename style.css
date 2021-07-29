@@ -42,7 +42,7 @@ body {
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
 }
-	.content>span {
+	span {
 		/*
 		position: absolute;
 		display: inline-block;
