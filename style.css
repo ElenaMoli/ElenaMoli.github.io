@@ -20,7 +20,7 @@ svg{
   text-align:right;
 }
 text{
-  font-size:6px;
+  font-size:5px;
   transition:font-size .4s ease-out;
   font-weight:900;
   font-family:arial;
