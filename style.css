@@ -21,7 +21,7 @@ svg{
   text-align:right;
 }
 text{
-  font-size:10px;
+  font-size:6px;
   transition:font-size .4s ease-out;
   font-weight:900;
   font-family:arial;
@@ -59,7 +59,7 @@ html .content, body .content {
   transform: translateY(-50%);
 }
 html .content span, body .content span {
-  width: 60px;
+  width: 600px;
   display: inline-block;
 }
 
