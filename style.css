@@ -4,7 +4,7 @@
 
 .main {
 position:absolute;
-right:20%;
+right:23%;
 top:30%;
 /* text-align: right;*/
 }
@@ -38,7 +38,7 @@ html .content, body .content {
   text-align: left;
   position: relative;
   left: 90%;
-  top: 47%;
+  top: 56%;
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
