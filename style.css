@@ -72,11 +72,11 @@ html {
 }
 ///////////////////
 .content_1 {
-  letter-spacing: 90px;
   font-size: 10px;
   color: #eee;
 }
 .content_2 {
+ letter-spacing: 90px;
  font-size: 10px; 
  color: #eee;
 }
