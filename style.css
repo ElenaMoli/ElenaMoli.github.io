@@ -37,6 +37,12 @@
 		font-family: sans-serif;
 		letter-spacing: 1px;
 		*/
+		display: inline-block;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		text-transform: uppercase;
 		transition: all .5s cubic-bezier(0,0,0,1);
 	}
 	@keyframes spinZ {
