@@ -1,4 +1,4 @@
-$(document).ready(function(){
+/*$(document).ready(function(){
   
   var $randomnbr = $('.nbr');
   var $timer= 20;
@@ -40,7 +40,7 @@ $(document).ready(function(){
   
   $it = setInterval(value, $timer);
     
-});
+});*/
 
 
 
