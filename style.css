@@ -24,10 +24,11 @@ body {
 }
 
 .emblem {
-	
-	/*margin: 100 auto;*/
-	margin-right:0;
-	margin-bottom:0;
+	position: absolute;
+	left: 0;
+	right: 0;
+  top: 25px;
+	margin: 0 auto;
 	width: 10vh;
 	height: 10vh;
 	border-radius: 50%;
