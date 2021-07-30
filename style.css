@@ -26,14 +26,14 @@ body {
   justify-content: right;
   align-items: right;
 }
-body .fixed-overlay {
+/*body .fixed-overlay {
 	/* Для кнопки */
 	display: flex;
         flex-direction: column;
         align-items: center;
 	/* Для кнопки */
 }
-
+*/
 
 
 /* Поздравления */
