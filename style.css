@@ -132,8 +132,8 @@ svg:hover text{
 
 html .content, body .content {   
   text-align: left;
-  /*position: relative;*/
-	 position: absolute;
+  position: relative;
+	/* position: absolute;*/
   left: 90%;
   top: 54%;
 /*	 left: 50px;
