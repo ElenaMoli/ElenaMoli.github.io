@@ -103,9 +103,9 @@ body {
 
 .main {
 position:absolute;
-right:23%;
-top:30%;
-/* text-align: right;*/
+/*right:23%;
+top:30%;*/
+margin: 50px 20px auto auto;
 }
 
 svg{
@@ -132,8 +132,9 @@ svg:hover text{
 html .content, body .content {   
   text-align: left;
   position: relative;
-  left: 90%;
-  top: 54%;
+  /*left: 90%;
+  top: 54%;*/
+	margin: 50px auto auto 20px
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
