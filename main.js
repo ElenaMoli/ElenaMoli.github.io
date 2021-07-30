@@ -70,6 +70,41 @@ Emblem.init('.emblem');
 
 
 /* Поздравление */
+function saveLocalStorage() {
+    localStorage.setItem("name", $("#name").val());
+    localStorage.setItem("email", $("#email").val());
+    localStorage.setItem("message", $("#message").val());
+    localStorage.setItem("policy", $("#policy").prop("checked"));
+}
+
+function loadLocalStorage() {
+    if (localStorage.getItem("name") !== null) {
+        $("#name").val(localStorage.getItem("name"));
+    }
+    if (localStorage.getItem("email") !== null) {
+        $("#email").val(localStorage.getItem("email"));
+    }
+    if (localStorage.getItem("message") !== null) {
+        $("#message").val(localStorage.getItem("message"));
+    }
+    if (localStorage.getItem("policy") !== null) {
+        $("#policy").prop("checked", localStorage.getItem("policy") === "true");
+        if ($("#policy").prop("checked")) {
+            $("#sendButton").removeAttr("disabled");
+        }
+    }
+}
+function clear() {
+    localStorage.clear();
+    $("#name").val("");
+    $("#email").val("");
+    $("#message").val("");
+    $("#policy").val(false);
+}
+
+
+
+
 $(document).ready(function () {
     loadLocalStorage();
     $("#openButton").click(function () {
