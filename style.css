@@ -43,7 +43,7 @@ body {
   justify-content: center;
 }
 
-a.button9 {
+#openButton {
   position: relative;
   display: inline-block;
 	/* /* */
@@ -74,11 +74,11 @@ a.button9 {
 	margin-left: auto;
 }
 
-a.button9:hover {
+#openButton:hover {
   transition: .5s linear;
   background-position: -200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
 }
-a.button9:active {
+#openButton:active {
   top: 1px;
 }
 
