@@ -473,35 +473,35 @@ birth.com
  
 
   <button id="openButton"></button>
-
-    <div class="fixed-overlay">
-      <div class="pop-block">
-        
-        <form id="form" action="https://formcarry.com/s/1jcJiVUhVF" method="POST">
+  <div class="fixed-overlay">
+      <div class="modal">
+        <form id="form" action="https://formcarry.com/s/c4XS3E2Irt" method="POST">
         <label>
-          Name:<br />
-          <input name="name" id="name" placeholder="Your name" required/>
+          Имя<br />
+          <input name="name" id="name"/>
         </label><br />
 
         <label>
           E-mail:<br />
-          <input name="email" id="email" type="email" placeholder="Your mail" required/>
+          <input name="email" id="email" type="email" />
         </label><br />
 
         <label>
-          Message:<br />
-          <textarea name="message" id="message" placeholder="Your message" required></textarea>
+          Сообщение:<br />
+          <textarea name="message" id="message"></textarea>
         </label><br />
-        <label><input name="personaldata" id="personaldata" type="checkbox" />
-           I agree with the personal data processing policy
-        </label><br />
-        <input id="send" type="submit" value="Send" disabled />
-      </form>
-      <button id="close">×</button>
-     </div>
-    </div>
-</div>  
 
+        <br />
+        <label><input type="checkbox" id="policy"
+          name="policy" />
+          Принимаю политику обработки персональных данных
+        </label><br />
+        
+        <input id="sendButton" type="submit" value="Отправить" disabled />
+      </form>
+      <button id="closeButton">Закрыть</button>
+      </div>
+    </div>
   
   
   <!-- ............................................................................................................................ -->
