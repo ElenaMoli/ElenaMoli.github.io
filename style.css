@@ -24,6 +24,9 @@ body {
 }
 .emblem {
 	position: absolute;
+	left: 10;
+	right: 0;
+  top: 40vh;
 	margin: 0 auto;
 	width: 10vh;
 	height: 10vh;
@@ -70,11 +73,6 @@ body {
 		}
 	}
 
-.bet_time {
-    position:absolute;
-    bottom:0;
-    right:0;
-}
 /*body,html{height:100%;margin:0;padding:0;background:#E3DFD2}*/
 
  /*body {
