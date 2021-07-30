@@ -25,13 +25,14 @@ body {
   display: flex;
   justify-content: right;
   /*align-items: center;*/  /* Это для body .fixed-overlay { */
-	align-items: right;
+	flex-direction: column;
+	align-items: center;
 }
-body .fixed-overlay {
+/* body .fixed-overlay {
         display: flex;
   flex-direction: column;
   align-items: center;
-}
+}*/
 
 
 
@@ -202,7 +203,7 @@ svg:hover text{
   position: relative;
 	/* position: absolute;*/
   left: 90%;
-  top: 54%;
+  top: 64%;
 /*	 left: 50px;
   top: 60px;*/
   -ms-transform: translateY(-50%);
