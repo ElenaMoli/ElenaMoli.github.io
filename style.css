@@ -26,8 +26,8 @@ body {
 .emblem {
 	
 	/*margin: 100 auto;*/
-	margin.right:0;
-	margin.bottom:0;
+	margin-right:0;
+	margin-bottom:0;
 	width: 10vh;
 	height: 10vh;
 	border-radius: 50%;
