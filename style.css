@@ -25,7 +25,7 @@ body {
   display: flex;
   justify-content: right;
   /*align-items: center;*/
-	align-items: center;
+	align-items: right;
 }
 /*body .fixed-overlay {
         flex-direction: column;
