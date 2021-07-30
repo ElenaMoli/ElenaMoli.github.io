@@ -24,7 +24,8 @@ body {
   overflow: hidden;
   display: flex;
   justify-content: right;
-  align-items: center;
+  /*align-items: center;*/
+	align-items: center;
 }
 /*body .fixed-overlay {
         flex-direction: column;
