@@ -32,8 +32,10 @@ body {
   flex-direction: column;
   align-items: center;
 }*/
-
-
+body .fixed-overlay {
+        top:100%;
+	right:30%
+}
 
 /* Поздравления */
 .fixed-overlay {
@@ -50,8 +52,6 @@ body {
 }
 
 a.button9 {
-	top:100%;
-	right:30%
   position: relative;
   display: inline-block;
   color: #777674;
