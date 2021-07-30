@@ -110,7 +110,7 @@ top:60px;
 }
 
 svg{
-//position:absolute;
+/*position:absolute;*/
   background:url('envelope.png');
   min-width: 100%;
   background-size:cover;
@@ -132,7 +132,8 @@ svg:hover text{
 
 html .content, body .content {   
   text-align: left;
-  position: relative;
+  /*position: relative;*/
+	 position: absolute;
  /* left: 90%;
   top: 54%;*/
 	 left: 50px;
