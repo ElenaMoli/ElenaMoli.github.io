@@ -25,13 +25,13 @@ body {
   display: flex;
   justify-content: right;
   /*align-items: center;*/  /* Это для body .fixed-overlay { */
-/*	flex-direction: column;
-	align-items: center;*/
+	flex-direction: column;
+	align-items: center;
 }
- body .fixed-overlay {
+/* body .fixed-overlay {
   flex-direction: column;
   align-items: center;
-}
+}*/
 
 
 
