@@ -24,8 +24,6 @@ body {
 }
 .emblem {
 	position: absolute;
-	right: 0%;
-  bottom: 0%;
 	margin: 0 auto;
 	width: 10vh;
 	height: 10vh;
