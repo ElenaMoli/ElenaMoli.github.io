@@ -28,7 +28,9 @@ body {
 	left: 0;
 	right: 0;
   top: 25vh;
-	margin: auto 1 1 auto;
+	/*margin: auto 1 1 auto;*/
+	margin-bottom: 0;
+	margin-right: 0;
 	width: 10vh;
 	height: 10vh;
 	border-radius: 50%;
