@@ -23,10 +23,12 @@ body {
   align-items: right;
 }
 .emblem {
-	position: absolute;
+position: absolute;
 	left: 35%;
 	right: 0;
   top: 120200%;
+}
+.emblem {
 	margin: 0 auto;
 	width: 10vh;
 	height: 10vh;
