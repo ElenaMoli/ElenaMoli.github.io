@@ -5,9 +5,9 @@
 }
 body {
 	/* Для кнопки */
-	display: flex;
+/*	display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center;*/
 	/* Для кнопки */
 	 position: absolute;
   letter-spacing: 5px;
@@ -45,6 +45,8 @@ body {
 }
 
 a.button9 {
+	top:26%;
+	right:30%
   position: relative;
   display: inline-block;
   color: #777674;
