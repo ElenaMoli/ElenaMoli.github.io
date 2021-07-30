@@ -103,10 +103,10 @@ body {
 
 .main {
 position:absolute;
-/*right:23%;
-top:30%;*/
-	right:50px;
-top:60px;
+right:23%;
+top:30%;
+/*	right:50px;
+top:60px;*/
 }
 
 svg{
@@ -134,10 +134,10 @@ html .content, body .content {
   text-align: left;
   /*position: relative;*/
 	 position: absolute;
- /* left: 90%;
-  top: 54%;*/
-	 left: 50px;
-  top: 60px;
+  left: 90%;
+  top: 54%;
+/*	 left: 50px;
+  top: 60px;*/
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
