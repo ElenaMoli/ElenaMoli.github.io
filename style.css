@@ -44,6 +44,7 @@ body {
 }
 
 #openButton {
+	 background: #000000;
   position: relative;
   display: inline-block;
 	/* /* */
