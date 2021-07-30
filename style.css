@@ -43,7 +43,7 @@ body {
   justify-content: center;
 }
 
-a.button9 {
+.button9 {
   position: relative;
   display: inline-block;
   color: #777674;
@@ -72,11 +72,11 @@ a.button9 {
 	margin-bottom: auto;
 	margin-left: auto;
 }
-a.button9:hover {
+.button9:hover {
   transition: .5s linear;
   background-position: -200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
 }
-a.button9:active {
+.button9:active {
   top: 1px;
 }
 
