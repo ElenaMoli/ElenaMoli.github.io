@@ -43,7 +43,7 @@ body {
   justify-content: center;
 }
 
-.button9 {
+/*.button9 {
   position: relative;
   display: inline-block;
   color: #777674;
@@ -66,12 +66,12 @@ body {
   background-position: 200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
   box-shadow: rgba(0,0,0,.5) 3px 10px 10px -10px;
   font-size: 20px;
- /* padding: 10px;*/
 	margin-top: 25%;
 	margin-right: 25%;
 	margin-bottom: auto;
 	margin-left: auto;
 }
+*/
 .button9:hover {
   transition: .5s linear;
   background-position: -200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
