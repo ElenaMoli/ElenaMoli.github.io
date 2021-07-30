@@ -36,7 +36,7 @@ body {
 	animation: spinZ 20s linear infinite;
 	text-align: center;
 	/**/
-	font-size: 1vh;
+	font-size: 10vh;
 		font-family: sans-serif;
 		letter-spacing: 1px;
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
