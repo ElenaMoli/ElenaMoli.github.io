@@ -42,6 +42,11 @@ body {
 	/*transition: all .5s cubic-bezier(0,0,0,1);*/
 	/**/
 }
+.emplemm {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
 	.spann span {
 		/*
 		position: absolute;
