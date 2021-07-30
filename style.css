@@ -202,8 +202,8 @@ svg:hover text{
   text-align: left;
   position: relative;
 	/* position: absolute;*/
-  left: 100%;
-  top: 130%;
+  left: 23%;
+  top: 30%;
 /*	 left: 50px;
   top: 60px;*/
   -ms-transform: translateY(-50%);
