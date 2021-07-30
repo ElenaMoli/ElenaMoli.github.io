@@ -67,3 +67,50 @@ var Emblem = {
 };
 
 Emblem.init('.emblem');
+
+
+/* Поздравление */
+$(document).ready(function () {
+    loadLocalStorage();
+    $("a.button9").click(function () {
+        $(".fixed-overlay").css("display", "flex");
+        history.pushState(true, "", "./form");
+    });
+    $("#close").click(function () {
+        $(".fixed-overlay").css("display", "none");
+        history.pushState(false, "", ".");
+ });
+    $("#form").submit(function (e) {
+        e.preventDefault();
+        $(".fixed-overlay").css("display", "none");
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: "https://formcarry.com/s/1jcJiVUhVF",
+            data: $(this).serialize(),
+            success: function (response) {
+                if (response.status === "success") {
+                    alert("Your form has been submitted successfully");
+                    clear();
+                } else {
+                    alert("Error: " + response.message);
+                }
+            }
+        });
+});
+$("#personaldata").change(function(){
+    if (this.checked) {
+        $("#send").removeAttr("disabled");
+    } else{
+        $("#send").attr("disabled", "");
+    }
+});
+$("#form").change(saveLocalStorage);
+window.onpopstate = function(event){
+    if (event.state){
+        $(".fixed-overlay").css("display", "flex");
+    } else{
+        $(".fixed-overlay").css("display", "none");
+    }
+};
+});
