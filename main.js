@@ -72,45 +72,48 @@ Emblem.init('.emblem');
 /* Поздравление */
 $(document).ready(function () {
     loadLocalStorage();
-    $("a.button9").click(function () {
+    $("#openButton").click(function () {
         $(".fixed-overlay").css("display", "flex");
         history.pushState(true, "", "./form");
     });
-    $("#close").click(function () {
+    $("#closeButton").click(function () {
         $(".fixed-overlay").css("display", "none");
         history.pushState(false, "", ".");
- });
+    });
     $("#form").submit(function (e) {
         e.preventDefault();
         $(".fixed-overlay").css("display", "none");
+        // mhtkpoezczaccbtsnz@etochq.com
+        // qwerty
         $.ajax({
             type: "POST",
             dataType: "json",
-            url: "https://formcarry.com/s/1jcJiVUhVF",
+            url: "https://formcarry.com/s/c4XS3E2Irt",
             data: $(this).serialize(),
             success: function (response) {
                 if (response.status === "success") {
-                    alert("Your form has been submitted successfully");
+                    alert("Ваше сообщение очень важно для нас");
                     clear();
                 } else {
-                    alert("Error: " + response.message);
+                    alert("Произошла ошибка: " + response.message);
                 }
             }
         });
-});
-$("#personaldata").change(function(){
-    if (this.checked) {
-        $("#send").removeAttr("disabled");
-    } else{
-        $("#send").attr("disabled", "");
-    }
-});
-$("#form").change(saveLocalStorage);
-window.onpopstate = function(event){
-    if (event.state){
-        $(".fixed-overlay").css("display", "flex");
-    } else{
-        $(".fixed-overlay").css("display", "none");
-    }
-};
+    });
+    $("#policy").change(function () {
+        if (this.checked) {
+            $("#sendButton").removeAttr("disabled");
+        } else {
+            $("#sendButton").attr("disabled", "");
+        }
+    });
+    $("#form").change(saveLocalStorage);
+
+    window.onpopstate = function (event) {
+        if (event.state) {
+            $(".fixed-overlay").css("display", "flex");
+        } else {
+            $(".fixed-overlay").css("display", "none");
+        }
+    };
 });
