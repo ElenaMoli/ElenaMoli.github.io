@@ -22,13 +22,11 @@ body {
   justify-content: right;
   align-items: right;
 }
+
 .emblem {
-position: absolute;
-	right: 0;
-	bottom: 0;
-}
-.emblem {
-	margin: 100 auto;
+	margin-right: 0;
+	margin-bottom: 0;
+	/*margin: 100 auto;*/
 	width: 10vh;
 	height: 10vh;
 	border-radius: 50%;
