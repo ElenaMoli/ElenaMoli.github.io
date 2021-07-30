@@ -105,8 +105,8 @@ body {
 position:absolute;
 /*right:23%;
 top:30%;*/
-	right:23%;
-top:30%;
+	right:23px;
+top:30px;
 }
 
 svg{
@@ -135,8 +135,8 @@ html .content, body .content {
   position: relative;
  /* left: 90%;
   top: 54%;*/
-	 left: 90%;
-  top: 54%;
+	 left: 90px;
+  top: 54px;
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
