@@ -59,7 +59,7 @@ body {
 		left: 50%;
 		right: 0;
 		bottom: 0;
-		top: 100%;
+		top: 50%;
 		text-transform: uppercase;
 		transition: all .5s cubic-bezier(0,0,0,1);
 }
