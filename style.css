@@ -29,6 +29,9 @@ body {
 }
 
 .container {
+	 position: absolute;
+  letter-spacing: 5px;
+  text-align: center;	
     text-align: center;
     display: inline-block;
 }
@@ -211,9 +214,6 @@ align-items: center;
 }*/
 
 html .content span, body .content span {
-  position: absolute;
-  letter-spacing: 5px;
-  text-align: center;	
   width: 50px;
   display: inline-block;
 }
