@@ -216,12 +216,12 @@ align-items: center;
 }*/
 
 html .content span, body .content span {
+		margin-top:0;
   width: 50px;
   display: inline-block;
 }
 
 .content_2 {
-	margin-top:0;
  letter-spacing: 6px;
  font-size: 5px; 
  color: #eee;
