@@ -203,7 +203,7 @@ top:30%;
 }*/
 
 .all {
-bottom: 0;	
+align-items: center;	
 }
 
 html .content span, body .content span {
