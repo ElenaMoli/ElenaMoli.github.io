@@ -4258,9 +4258,8 @@ body::after {
   .modal {
     width: 90%;
   }
-.emblem {
-	width: 3vh;
-	height: 3vh;	
-	border-radius: 20%;
+html .content span, body .content span {
+  width: 100px;
+}
 }	
 
