@@ -33,12 +33,12 @@ body {
 }
 
 .content {
-   float:left;
+   float:center;
 }
 
-/*.main {
-   float:right;
-}*/
+.main {
+   float:center;
+}
 
 /* Поздравления */
 .fixed-overlay {
