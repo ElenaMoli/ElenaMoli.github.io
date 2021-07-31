@@ -29,15 +29,13 @@ body {
   justify-content: center;
 }
 
-.container {
+/*.container {
 	align-items: center;
   justify-content: center;
 	 position: absolute;
-  /*letter-spacing: 5px;*/
   text-align: center;	
     display: inline-block;
-/*	font-size:5px; */
-}
+}*/
 
 /* Поздравления */
 .fixed-overlay {
