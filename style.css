@@ -4262,8 +4262,8 @@ body::after {
   .modal {
     width: 90%;
   }
-html .content span, body .content span {
-  width: 100px;
-}
+body{
+	overflow: hidden;
+	}
 }	
 
