@@ -219,6 +219,10 @@ html .content span, body .content span {
   display: inline-block;
 }
 
+.content {
+	top: 0;
+}
+
 .content_2 {
  letter-spacing: 6px;
  font-size: 3px; 
