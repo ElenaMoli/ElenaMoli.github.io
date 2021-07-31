@@ -45,8 +45,8 @@ body {
 
 #openButton {
 	 background: #000000;
-  position: relative;
-  display: inline-block;
+/*  position: relative;
+  display: inline-block;*/
 	/* /* */
   color: #000000;
   /*font-weight: bold;
@@ -62,7 +62,6 @@ body {
   box-shadow: rgba(0,0,0,.5) 3px 10px 10px -10px;
   font-size: 20px;*/
 	/* */ 
-	 box-shadow: #000000 3px 10px 10px -10px;
 	margin-top: 20%;
 	margin-right: 30%;
 	margin-bottom: auto;
