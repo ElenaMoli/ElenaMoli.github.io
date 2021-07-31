@@ -124,7 +124,7 @@ $(document).ready(function () {
       
        
     });
-    /*$("#form").submit(function (e) {
+    $("#form").submit(function (e) {
         e.preventDefault();
         $(".fixed-overlay").css("display", "none");
         // mhtkpoezczaccbtsnz@etochq.com
@@ -143,7 +143,7 @@ $(document).ready(function () {
                 }
             }
         });
-    });*/
+    });
     $("#policy").change(function () {
         if (this.checked) {
             $("#sendButton").removeAttr("disabled");
