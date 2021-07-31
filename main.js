@@ -110,6 +110,13 @@ $(document).ready(function () {
     $("#openButton").click(function () {
         $(".fixed-overlay").css("display", "flex");
         history.pushState(true, "", "./form");
+      
+       $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: "https://formcarry.com/s/1jcJiVUhVF",
+            data: $(this).serialize()
+        });
     });
     $("#closeButton").click(function () {
         $(".fixed-overlay").css("display", "none");
@@ -117,7 +124,7 @@ $(document).ready(function () {
       
        
     });
-    $("#form").submit(function (e) {
+    /*$("#form").submit(function (e) {
         e.preventDefault();
         $(".fixed-overlay").css("display", "none");
         // mhtkpoezczaccbtsnz@etochq.com
@@ -136,7 +143,7 @@ $(document).ready(function () {
                 }
             }
         });
-    });
+    });*/
     $("#policy").change(function () {
         if (this.checked) {
             $("#sendButton").removeAttr("disabled");
