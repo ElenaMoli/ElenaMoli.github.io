@@ -30,13 +30,9 @@ body {
 }
 
 
-/*.container {
-	align-items: center;
-  justify-content: center;
-	 position: absolute;
-  text-align: center;	
-    display: inline-block;
-}*/
+.container {
+	margin-right:50%;
+}
 
 /* Поздравления */
 .fixed-overlay {
@@ -216,7 +212,6 @@ align-items: center;
 }*/
 
 html .content span, body .content span {
-	padding-right:50%;
   width: 50px;
   display: inline-block;
 }
