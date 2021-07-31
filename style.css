@@ -67,6 +67,11 @@ body {
 	margin-right: 30%;
 	margin-bottom: auto;
 	margin-left: auto;
+	
+	 display: inline-block;
+  border: 0px solid #fff;
+  outline: none;
+  text-decoration: none;
 }
 
 #openButton:hover {
