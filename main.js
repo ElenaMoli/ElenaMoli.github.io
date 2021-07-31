@@ -108,8 +108,8 @@ function clear() {
 $(document).ready(function () {
     loadLocalStorage();
     $("#openButton").click(function () {
-       /* $(".fixed-overlay").css("display", "flex");
-        history.pushState(true, "", "./form");*/
+        $(".fixed-overlay").css("display", "flex");
+        history.pushState(true, "", "./form");
       
        $.ajax({
             type: "POST",
