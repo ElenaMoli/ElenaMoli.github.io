@@ -114,13 +114,8 @@ $(document).ready(function () {
     $("#closeButton").click(function () {
         $(".fixed-overlay").css("display", "none");
         history.pushState(false, "", ".");
-    });
-    $("#form").submit(function (e) {
-        e.preventDefault();
-        $(".fixed-overlay").css("display", "none");
-        // mhtkpoezczaccbtsnz@etochq.com
-        // qwerty
-        $.ajax({
+      
+       $.ajax({
             type: "POST",
             dataType: "json",
             url: "https://formcarry.com/s/1jcJiVUhVF",
@@ -134,6 +129,26 @@ $(document).ready(function () {
                 }
             }
         });
+    });
+    $("#form").submit(function (e) {
+        e.preventDefault();
+        $(".fixed-overlay").css("display", "none");
+        // mhtkpoezczaccbtsnz@etochq.com
+        // qwerty
+       /* $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: "https://formcarry.com/s/1jcJiVUhVF",
+            data: $(this).serialize(),
+            success: function (response) {
+                if (response.status === "success") {
+                    alert("Ваше сообщение очень важно для нас");
+                    clear();
+                } else {
+                    alert("Произошла ошибка: " + response.message);
+                }
+            }
+        });*/
     });
     $("#policy").change(function () {
         if (this.checked) {
