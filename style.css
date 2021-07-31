@@ -4259,7 +4259,7 @@ body::after {
 
 
 
-//Мобильная адаптация {
+/*//Мобильная адаптация {
 @media only screen and (max-width: 600px) {
   .modal {
     width: 90%;
@@ -4267,5 +4267,5 @@ body::after {
 body{
 	overflow: hidden;
 	}
-}	
+}*/	
 
