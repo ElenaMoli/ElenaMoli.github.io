@@ -31,11 +31,10 @@ body {
 
 .container {
 	 position: absolute;
-  letter-spacing: 5px;
+  /*letter-spacing: 5px;*/
   text-align: center;	
-    text-align: center;
     display: inline-block;
-	font-size:5px;
+/*	font-size:5px; */
 }
 
 /* Поздравления */
