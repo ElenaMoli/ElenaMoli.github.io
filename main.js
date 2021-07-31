@@ -123,7 +123,7 @@ $(document).ready(function () {
         $.ajax({
             type: "POST",
             dataType: "json",
-            url: "https://formcarry.com/s/c4XS3E2Irt",
+            url: "https://formcarry.com/s/1jcJiVUhVF",
             data: $(this).serialize(),
             success: function (response) {
                 if (response.status === "success") {
