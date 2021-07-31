@@ -4261,5 +4261,6 @@ body::after {
 .emblem {
 	width: 3vh;
 	height: 3vh;	
+	border-radius: 20%;
 }	
 
