@@ -216,7 +216,6 @@ align-items: center;
 }*/
 
 html .content span, body .content span {
-		margin-top:0;
   width: 50px;
   display: inline-block;
 }
