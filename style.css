@@ -383,6 +383,18 @@ body::after {
               48vw 28vh .1vmin rgba(200,255,230,.7);
 }
 
+@-webkit-keyframes planet-rotate {
+  to {
+    -webkit-transform: rotate(1turn);
+  }
+}
+
+@keyframes planet-rotate {
+  to {
+    transform: rotate(1turn);
+  }
+}
+
 //Фейерверк
 
 .wrap {
