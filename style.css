@@ -165,14 +165,6 @@ body {
   align-items: right;
 }*/
 
-.main {
-position:absolute;
-right:23%;
-top:30%;
-/*	right:50px;
-top:60px;*/
-}
-
 svg{
 /*position:absolute;*/
   background:url('envelope.png');
@@ -207,6 +199,17 @@ svg:hover text{
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+.main {
+position:absolute;
+right:23%;
+top:30%;
+/*	right:50px;
+top:60px;*/
+}
+.all {
+bottom: 0;	
+}
+
 html .content span, body .content span {
   width: 50px;
   display: inline-block;
