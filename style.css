@@ -29,7 +29,7 @@ body {
   justify-content: center;
 }
 
-.container .content_2 {
+.container {
 	 position: absolute;
   letter-spacing: 5px;
   text-align: center;	
