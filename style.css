@@ -216,7 +216,7 @@ align-items: center;
 }*/
 
 html .content span, body .content span {
-	margin-right:50%;
+	padding-right:50%;
   width: 50px;
   display: inline-block;
 }
