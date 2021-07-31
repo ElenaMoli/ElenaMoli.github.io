@@ -25,14 +25,10 @@ body {
   overflow: hidden;
   display: flex;
 	
-  /*align-items: center;            Вот так работает без body .container
-  justify-content: center;*/
-}
-
-body .container {  /* Может быть надо так */
-	align-items: center;
+  align-items: center;           
   justify-content: center;
 }
+
 
 /*.container {
 	align-items: center;
