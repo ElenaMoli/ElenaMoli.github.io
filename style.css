@@ -4,7 +4,7 @@
 	 box-sizing: border-box;
 }
 body {
-	margin: 0;
+	margin: 15px;
 	/* Для кнопки */
 /*	display: flex;
   flex-direction: column;
