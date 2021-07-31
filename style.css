@@ -29,7 +29,8 @@ body {
 }
 
 .container {
-    width: 100%;
+    text-align: center;
+    display: inline-block;
 }
 
 .content {
