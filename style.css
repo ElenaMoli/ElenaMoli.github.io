@@ -225,6 +225,7 @@ body .content content_2 {
 }
 
 .content_2 {
+	top:0;
  letter-spacing: 6px;
  font-size: 5px; 
  color: #eee;
