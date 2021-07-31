@@ -33,14 +33,6 @@ body {
     display: inline-block;
 }
 
-.content {
-   float:center;
-}
-
-div.main {
-   float:center;
-}
-
 /* Поздравления */
 .fixed-overlay {
   position: fixed;
