@@ -219,6 +219,12 @@ html .content span, body .content span {
   display: inline-block;
 }
 
+.content_2 {
+ letter-spacing: 6px;
+ font-size: 50px; 
+ color: #eee;
+}
+
 html {
   margin: 0;
   height: 100%;
@@ -248,11 +254,6 @@ html {
   font-size: 200px;
   color: #eee;
 }*/
-.content_2 {
- letter-spacing: 6px;
- font-size: 5px; 
- color: #eee;
-}
 
 html::before,
 html::after,
