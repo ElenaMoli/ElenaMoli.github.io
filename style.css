@@ -52,6 +52,9 @@ body {
 .center-img {
   display: block;
   margin: 0 auto;
+	 width:600px;
+    height:500px;
+	opacity: 0.2;
 }
 /*.img{
     position: relative;
