@@ -4727,7 +4727,7 @@ for 118 in range(0, int(input())):
         x = str((i*10+5)//100) + ".0" + str((i*10+5)%100)
     else:
         x = str((i*10+5)//100) + "." + str((i*10+5)%100)
-    print (".mast__text span:nth-child(", str(i+1) ,") {\n   -webkit-animation-delay: ", x,"s;\n   animation-delay: ", x, "s;\n}", sep="")
+    print (".mast__text span:nth-child(", str(i+1) ,") {\n   -webkit-animation-delay: ", x,"s;\n   animation-delay: ", x, "s;\n}", sep="");
 /*
 .mast__text span:nth-child(1) {
   -webkit-animation-delay: 0.05s;
