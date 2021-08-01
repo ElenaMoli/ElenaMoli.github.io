@@ -49,9 +49,9 @@ body {
  /* align-items: center;
   justify-content: center;*/
 }
-.center-pic{
-display:block;
-margin:auto;
+.center-img {
+  display: block;
+  margin: 0 auto;
 }
 /*.img{
     position: relative;
