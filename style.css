@@ -4605,6 +4605,7 @@ body{
   letter-spacing: 0.3em;
   text-transform: uppercase;
 }
+
 /*
 .mast__title span {
   -webkit-animation: letter-glow 0.7s 0s ease both;
@@ -4723,7 +4724,7 @@ body{
           animation: letter-glow 0.7s 0s ease both;
 }
 
- for 118 in range(0, int(input())):
+ for i in range(0, int(input(117))):
     if i % 10 == 0:
         x = str((i*10+5)//100) + ".0" + str((i*10+5)%100)
     else:
