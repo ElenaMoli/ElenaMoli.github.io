@@ -70,6 +70,8 @@ body {
     max-width:100%;
 	max-height: 100%;
 	color: black;
+	letter-spacing: 6px;
+ font-size: 7px; 
 }
 /*.img{
     position: relative;
