@@ -46,10 +46,10 @@ body {
   height: 100%;
   background-color: rgba(255, 255, 240, 0.8);
   display: none;
-  /*align-items: center;
-  justify-content: center;*/
+  align-items: center;
+  justify-content: center;
 }
-p { text-align: center; }
+/*p { text-align: center; }
 .img{
     margin: 10px;
     padding: 0;
@@ -57,11 +57,7 @@ p { text-align: center; }
     width:600px;
     height:500px;
 	opacity: 0.2;
-   /* background: #c2c2c2;
-    border: 1px solid #000;
-    border-radius:3px;*/
 }
-
 .img img{
     position: absolute;
     left:50%;
@@ -69,7 +65,10 @@ p { text-align: center; }
     transform: translate(-50%, -50%);
     max-width:100%;
     max-height: 100%;
-}
+}*/
+
+
+
 /*.image-flex {
   display:flex;
   align-items: center;
