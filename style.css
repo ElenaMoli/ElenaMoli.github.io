@@ -61,7 +61,7 @@ body {
     height:500px;
 	opacity: 0.2;
 }
-.mast__text js-spanize {
+.mast__text {
 	text-align:center;
 }
 /*.img{
