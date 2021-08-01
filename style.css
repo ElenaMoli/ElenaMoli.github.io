@@ -50,6 +50,13 @@ body {
   justify-content: center;
 }
 
+.image-flex {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Поздравления */
+
 #openButton {
 	 background: #000000;
 /*  position: relative;
