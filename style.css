@@ -4731,6 +4731,7 @@ body{
     print (".mast__text span:nth-child(", str(i+1) ,") {\n   -webkit-animation-delay: ", x,"s;\n   animation-delay: ", x, "s;\n}", sep="");*/
 
 */
+/*
 .mast__text span:nth-child(1) {
   -webkit-animation-delay: 0.05s;
           animation-delay: 0.05s;
