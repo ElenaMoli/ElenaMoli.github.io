@@ -4609,7 +4609,7 @@ body{
   -webkit-animation: letter-glow 0.7s 0s ease both;
           animation: letter-glow 0.7s 0s ease both;
 }
-/*.mast__title span:nth-child(1) {
+.mast__title span:nth-child(1) {
   -webkit-animation-delay: 0.05s;
           animation-delay: 0.05s;
 }
@@ -4708,7 +4708,7 @@ body{
 .mast__title span:nth-child(25) {
   -webkit-animation-delay: 1.25s;
           animation-delay: 1.25s;
-}*/
+}
 .mast__text {
   font-family: "Cutive Mono", monospace;
   font-size: 1em;
@@ -4716,7 +4716,7 @@ body{
   line-height: 1.5;
   white-space: pre;
 }
-/*.mast__text span {
+.mast__text span {
   -webkit-animation: letter-glow 0.7s 0s ease both;
           animation: letter-glow 0.7s 0s ease both;
 }
@@ -5440,7 +5440,7 @@ body{
   -webkit-animation-delay: 9s;
           animation-delay: 9s;
 }
-*/
+
 @-webkit-keyframes letter-glow {
   0% {
     opacity: 0;
