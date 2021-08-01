@@ -168,14 +168,6 @@ Spanizer
 - Wraps letters with spans, for css animations
 -----*/
 (function($) {
-  
-  for 118 in range(0, int(input())):
-    if i % 10 == 0:
-        x = str((i*10+5)//100) + ".0" + str((i*10+5)%100)
-    else:
-        x = str((i*10+5)//100) + "." + str((i*10+5)%100)
-    print (".mast__text span:nth-child(", str(i+1) ,") {\n   -webkit-animation-delay: ", x,"s;\n   animation-delay: ", x, "s;\n}", sep="");
-  
   var s,
   spanizeLetters = {
     settings: {
