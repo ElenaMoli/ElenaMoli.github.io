@@ -79,8 +79,8 @@ body {
     left:50%;
     top:50%;
     transform: translate(-50%, -50%);
-    max-width:40%;
-    max-height: 80%;
+    max-width:20%;
+    max-height: 50%;
     color: white;
     letter-spacing: 5px;
     font-size: 20px;
