@@ -4758,7 +4758,7 @@ body{
 	 font-family: "Cutive Mono", monospace;
     display: block;
     position: fixed;
-	 font-size: 2px;
+	 font-size: 5px;
     letter-spacing: 5px;
     transform: translate(-50%, -50%);
 	left:50%;
