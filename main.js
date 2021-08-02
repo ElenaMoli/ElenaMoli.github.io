@@ -163,6 +163,14 @@ $(document).ready(function () {
 });
 
 /* Стишочек */
+let parent = document.querySelector('div');
+let child = parent.children;
+let animDelay = 0.05;
+for(let i = 0; i < child.length; i++) { 
+    child[i].style.animationDelay = animDelay + 's';
+    animDelay = animDelay + 0.01;
+}
+
 /*-----
 Spanizer
 - Wraps letters with spans, for css animations
