@@ -1,4 +1,4 @@
-let parent = document.querySelector(".mast__title");
+let parent = document.querySelector(".divv");
 let child = parent.children;
 let animDelay = 0.05;
 for(let i = 0; i < child.length; i++) { 
