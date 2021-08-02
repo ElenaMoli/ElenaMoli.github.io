@@ -4779,6 +4779,7 @@ p.mast__text {
   -webkit-animation: letter-glow 0.7s 0s ease both;
    animation: letter-glow 0.7s 0s ease both;
 }
+/*
 .mast__text span:nth-child(1) {
   -webkit-animation-delay: 6.05s;
           animation-delay: 6.05s;
@@ -4811,6 +4812,7 @@ p.mast__text {
   -webkit-animation-delay: 6.45s;
           animation-delay: 6.45s;
 }
+*/
 /*
 .mast__text span:nth-child(9) {
   -webkit-animation-delay: 0.85s;
