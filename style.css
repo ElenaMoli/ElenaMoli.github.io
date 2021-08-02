@@ -4767,11 +4767,13 @@ body{
     transform: translate(-50%, -50%);
 	left:50%;
     top:30%;
-	line-height: 10px;
     max-width:100%;
     max-height: 100%;
     color: white;
 	white-space: pre-wrap;
+}
+p.mast__text {
+	line-height: 1.5;
 }
 .mast__text span {
   -webkit-animation: letter-glow 0.7s 0s ease both;
