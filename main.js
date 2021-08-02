@@ -1,10 +1,11 @@
-let parent = document.querySelector(".mast__text");
+let parent = document.querySelector(".mast__title span");
 let child = parent.children;
 let animDelay = 0.05;
 for(let i = 0; i < child.length; i++) { 
     child[i].style.animationDelay = animDelay + 's';
     animDelay = animDelay + 0.01;
 };
+<!-- .mast__title span:nth-child(22) -->
 
 $(document).ready(function(){
   
