@@ -4772,7 +4772,7 @@ body{
 	width:30px;
 height: 100px;
     color: white;
-	white-space: pre;
+	white-space: pre-wrap;
 }
 .mast__text span {
   -webkit-animation: letter-glow 0.7s 0s ease both;
