@@ -4763,10 +4763,10 @@ body{
     display: block;
     position: fixed;
 	 font-size: 11px;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
     transform: translate(-50%, -50%);
 	left:50%;
-    top:50%;
+    top:40%;
     max-width:100%;
     max-height: 100%;
     color: white;
