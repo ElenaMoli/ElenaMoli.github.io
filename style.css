@@ -88,6 +88,9 @@ body {
 .imgblock2 {
      position: relative;
     display: inline-block;
+	transform: translate(-50%, -50%);
+	 left:50%;
+    top:50%;
 }
 
 .imgblock2 img {
@@ -101,6 +104,7 @@ body {
     top: 10px;
     width: 100%;
     left: 5px;
+	font-size: 2px;
 }
 
 /*.img{
