@@ -4760,12 +4760,12 @@ body{
 	 font-family: "Cutive Mono", monospace;
     display: block;
     position: fixed;
-	 font-size: 10px;
+	 font-size: 14px;
     letter-spacing: 5px;
     transform: translate(-50%, -50%);
 	left:50%;
     top:50%;
-    max-width:50%;
+    max-width:30%;
     max-height: 100%;
     color: white;
 	white-space: pre;
