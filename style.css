@@ -93,17 +93,17 @@ body {
     top:50%;
 }
 
-.imgblock2 img {
+/*.imgblock2 img {
     height: 160px;
     width: 250px;
-}
+}*/
 
 .imgblock2 mast__text {
     left: 0;
     position: absolute;
     top: 10px;
     width: 100%;
-    left: 20px;
+    left: 1px;
 }
 
 /*.img{
