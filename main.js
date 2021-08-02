@@ -1,4 +1,4 @@
-let parent = document.querySelector('p');
+let parent = document.querySelector('<p class="mast__text">');
 let child = parent.children;
 let animDelay = 0.05;
 for(let i = 0; i < child.length; i++) { 
