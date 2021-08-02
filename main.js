@@ -1,5 +1,5 @@
 let parent = document.querySelector(".mast__text");
-let child = parent.nth-child;
+let child = parent.children;
 let animDelay = 0.05;
 for(let i = 0; i < child.length; i++) { 
     child[i].style.animationDelay = animDelay + 's';
