@@ -4758,6 +4758,8 @@ body{
 
 .mast__text {
 	 font-family: "Cutive Mono", monospace;
+	font-style: oblique;
+	text-align: justify;
     display: block;
     position: fixed;
 	 font-size: 12px;
