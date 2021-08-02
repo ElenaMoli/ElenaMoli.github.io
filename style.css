@@ -4752,12 +4752,8 @@ body{
 }
 .mast__text span {
   -webkit-animation: letter-glow 0.7s 0s ease both;
-          animation: letter-glow 0.7s 0s ease both;
+   animation: letter-glow 0.7s 0s ease both;
 }
-
-
-
-
 .mast__text span:nth-child(1) {
   -webkit-animation-delay: 0.05s;
           animation-delay: 0.05s;
@@ -5612,7 +5608,7 @@ body{
   -webkit-animation-delay: 18.25s;
           animation-delay: 18.25s;
 }
-
+*/
 @-webkit-keyframes letter-glow {
   0% {
     opacity: 0;
