@@ -73,7 +73,7 @@ body {
    /* opacity: 0.2; */
 }
 
-.mast__text {
+/*.mast__text {
     display: block;
     position: absolute;
     left:50%;
@@ -84,7 +84,25 @@ body {
     color: white;
     letter-spacing: 5px;
     font-size: 20px;
+}*/
+.imgblock2 {
+     position: relative;
+    display: inline-block;
 }
+
+.imgblock2 img {
+    height: 160px;
+    width: 250px;
+}
+
+.imgblock2 mast__text {
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    left: 5px;
+}
+
 /*.img{
     position: relative;
     width:600px;
