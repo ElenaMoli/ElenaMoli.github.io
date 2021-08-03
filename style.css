@@ -4953,11 +4953,12 @@ p.mast__text {
 
 
 /*И счастье порождают*/
+/*
 .mast__text span:nth-child(39) {
   -webkit-animation-delay: 5.05s;
           animation-delay: 5.05s;
 }
-
+*/
 
 .mast__text span:nth-child(40) {
   -webkit-animation-delay: 5.15s;
