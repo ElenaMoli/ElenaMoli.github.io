@@ -4801,10 +4801,13 @@ p.mast__text {
           animation-delay: 1.85s;
 }
 
+/*
 .mast__text span:nth-child(6) {
   -webkit-animation-delay: 1.90s;
           animation-delay: 1.90s;
 }
+*/
+
 .mast__text span:nth-child(7) {
   -webkit-animation-delay: 2.10s;
           animation-delay: 2.10s;
