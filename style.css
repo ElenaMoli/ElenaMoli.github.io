@@ -4785,20 +4785,20 @@ p.mast__text {
           animation-delay: 1.05s;
 }
 .mast__text span:nth-child(2) {
-  -webkit-animation-delay: 1.18s;
-          animation-delay: 1.18s;
+  -webkit-animation-delay: 1.25s;
+          animation-delay: 1.25s;
 }
 .mast__text span:nth-child(3) {
-  -webkit-animation-delay: 1.28s;
-          animation-delay: 1.28s;
+  -webkit-animation-delay: 1.45s;
+          animation-delay: 1.45s;
 }
 .mast__text span:nth-child(4) {
-  -webkit-animation-delay: 1.38s;
-          animation-delay: 1.38s;
+  -webkit-animation-delay: 1.65s;
+          animation-delay: 1.65s;
 }
 .mast__text span:nth-child(5) {
-  -webkit-animation-delay: 1.48s;
-          animation-delay: 1.48s;
+  -webkit-animation-delay: 1.85s;
+          animation-delay: 1.85s;
 }
 /*
 .mast__text span:nth-child(6) {
