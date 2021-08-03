@@ -4785,22 +4785,22 @@ p.mast__text {
           animation-delay: 1.05s;
 }
 .mast__text span:nth-child(2) {
-  -webkit-animation-delay: 1.15s;
-          animation-delay: 1.15s;
+  -webkit-animation-delay: 1.18s;
+          animation-delay: 1.18s;
 }
 .mast__text span:nth-child(3) {
-  -webkit-animation-delay: 1.25s;
-          animation-delay: 1.25s;
+  -webkit-animation-delay: 1.28s;
+          animation-delay: 1.28s;
 }
 .mast__text span:nth-child(4) {
-  -webkit-animation-delay: 1.35s;
-          animation-delay: 1.35s;
+  -webkit-animation-delay: 1.38s;
+          animation-delay: 1.38s;
 }
 .mast__text span:nth-child(5) {
-  -webkit-animation-delay: 1.45s;
-          animation-delay: 1.45s;
+  -webkit-animation-delay: 1.48s;
+          animation-delay: 1.48s;
 }
-
+/*
 .mast__text span:nth-child(6) {
   -webkit-animation-delay: 1.55s;
           animation-delay: 1.55s;
@@ -5076,7 +5076,7 @@ p.mast__text {
   -webkit-animation-delay: 9.15s;
           animation-delay: 9.15s;
 }
-
+*/
 /*
 .mast__text span:nth-child(72) {
   -webkit-animation-delay: 8.25s;
