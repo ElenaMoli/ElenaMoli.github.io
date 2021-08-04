@@ -6123,19 +6123,38 @@ p.mast__text {
 }
 
 /*
-.mast__text span:nth-child(398) {
+.mast__text span:nth-child(399) {
   -webkit-animation-delay: 35.75s;
           animation-delay: 35.75s;
 }
 */
-.mast__text span:nth-child(427) {
+.mast__text span:nth-child(400) {
   -webkit-animation-delay: 35.85s;
           animation-delay: 35.85s;
 }
-.mast__text span:nth-child(428) {
+.mast__text span:nth-child(401) {
   -webkit-animation-delay: 35.95s;
           animation-delay: 35.95s;
 }
+.mast__text span:nth-child(402) {
+  -webkit-animation-delay: 36.05s;
+          animation-delay: 36.05s;
+}
+.mast__text span:nth-child(403) {
+  -webkit-animation-delay: 36.15s;
+          animation-delay: 36.15s;
+}
+.mast__text span:nth-child(404) {
+  -webkit-animation-delay: 36.25s;
+          animation-delay: 36.25s;
+}
+
+
+/*.mast__text span:nth-child(405) {
+  -webkit-animation-delay: 35.95s;
+          animation-delay: 35.95s;
+}*/
+
 
 
 
