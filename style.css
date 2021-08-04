@@ -6102,10 +6102,40 @@ p.mast__text {
 
 /* From to */
 .mast__text span:nth-child(394) {
-  -webkit-animation-delay: 33.55s;
-          animation-delay: 33.55s;
+  -webkit-animation-delay: 35.35s;
+          animation-delay: 35.35s;
+}
+.mast__text span:nth-child(395) {
+  -webkit-animation-delay: 35.45s;
+          animation-delay: 35.45s;
+}
+.mast__text span:nth-child(396) {
+  -webkit-animation-delay: 35.55s;
+          animation-delay: 35.55s;
+}
+.mast__text span:nth-child(397) {
+  -webkit-animation-delay: 35.65s;
+          animation-delay: 35.65s;
+}
+.mast__text span:nth-child(398) {
+  -webkit-animation-delay: 35.75s;
+          animation-delay: 35.75s;
 }
 
+/*
+.mast__text span:nth-child(398) {
+  -webkit-animation-delay: 35.75s;
+          animation-delay: 35.75s;
+}
+*/
+.mast__text span:nth-child(427) {
+  -webkit-animation-delay: 35.85s;
+          animation-delay: 35.85s;
+}
+.mast__text span:nth-child(428) {
+  -webkit-animation-delay: 35.95s;
+          animation-delay: 35.95s;
+}
 
 
 
