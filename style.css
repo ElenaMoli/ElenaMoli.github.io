@@ -37,9 +37,13 @@ body {
 }
 
 #openButton {
-  font-size: 20px;
-  padding: 5px;
-}
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: rgb(212,75,56); /* фон кнопки */
+  padding: .7em 1.5em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+} 
 
 .container {
 	margin-right:20%;
