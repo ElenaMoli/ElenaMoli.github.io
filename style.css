@@ -5440,7 +5440,7 @@ p.mast__text {
 
 
 
-
+/* И пусть не угосает в сердце доброта */
 .mast__text span:nth-child(160) {
   -webkit-animation-delay: 18.15s;
           animation-delay: 18.15s;
@@ -5451,6 +5451,7 @@ p.mast__text {
   -webkit-animation-delay: 14.45s;
           animation-delay: 14.45s;
 }
+*/
 .mast__text span:nth-child(64) {
   -webkit-animation-delay: 14.65s;
           animation-delay: 14.65s;
@@ -5471,10 +5472,13 @@ p.mast__text {
   -webkit-animation-delay: 15.45s;
           animation-delay: 15.45s;
 }
+
+/*
 .mast__text span:nth-child(69) {
   -webkit-animation-delay: 15.65s;
           animation-delay: 15.65s;
 }
+*/
 .mast__text span:nth-child(70) {
   -webkit-animation-delay: 15.85s;
           animation-delay: 15.85s;
@@ -5483,10 +5487,13 @@ p.mast__text {
   -webkit-animation-delay: 16.05s;
           animation-delay: 16.05s;
 }
+
+/*
 .mast__text span:nth-child(72) {
   -webkit-animation-delay: 16.25s;
           animation-delay: 16.25s;
 }
+*/
 .mast__text span:nth-child(73) {
   -webkit-animation-delay: 16.45s;
           animation-delay: 16.45s;
@@ -5515,18 +5522,24 @@ p.mast__text {
   -webkit-animation-delay: 17.65s;
           animation-delay: 17.65s;
 }
+
+/*
 .mast__text span:nth-child(80) {
   -webkit-animation-delay: 17.85s;
           animation-delay: 17.85s;
 }
+*/
 .mast__text span:nth-child(81) {
   -webkit-animation-delay: 18.05s;
           animation-delay: 18.05s;
 }
+
+/*
 .mast__text span:nth-child(82) {
   -webkit-animation-delay: 18.25s;
           animation-delay: 18.25s;
 }
+*/
 .mast__text span:nth-child(83) {
   -webkit-animation-delay: 18.45s;
           animation-delay: 18.45s;
@@ -5551,10 +5564,13 @@ p.mast__text {
   -webkit-animation-delay: 19.45s;
           animation-delay: 19.45s;
 }
+
+/*
 .mast__text span:nth-child(89) {
   -webkit-animation-delay: 19.65s;
           animation-delay: 19.65s;
 }
+*/
 .mast__text span:nth-child(90) {
   -webkit-animation-delay: 19.85s;
           animation-delay: 19.85s;
@@ -5587,18 +5603,28 @@ p.mast__text {
   -webkit-animation-delay: 21.25s;
           animation-delay: 21.25s;
 }
+
+/*
 .mast__text span:nth-child(98) {
   -webkit-animation-delay: 21.45s;
           animation-delay: 21.45s;
+}
+*/
+.mast__text span:nth-child(99) {
+  -webkit-animation-delay: 21.65s;
+          animation-delay: 21.65s;
 }
 .mast__text span:nth-child(99) {
   -webkit-animation-delay: 21.65s;
           animation-delay: 21.65s;
 }
+
+/*
 .mast__text span:nth-child(100) {
   -webkit-animation-delay: 21.85s;
           animation-delay: 21.85s;
 }
+*/
 .mast__text span:nth-child(101) {
   -webkit-animation-delay: 22.05s;
           animation-delay: 22.05s;
@@ -5619,10 +5645,13 @@ p.mast__text {
   -webkit-animation-delay: 22.85s;
           animation-delay: 22.85s;
 }
+
+/*
 .mast__text span:nth-child(106) {
   -webkit-animation-delay: 23.05s;
           animation-delay: 23.05s;
 }
+*/
 .mast__text span:nth-child(107) {
   -webkit-animation-delay: 23.25s;
           animation-delay: 23.25s;
@@ -5651,10 +5680,13 @@ p.mast__text {
   -webkit-animation-delay: 24.45s;
           animation-delay: 24.45s;
 }
+
+/*
 .mast__text span:nth-child(114) {
   -webkit-animation-delay: 24.65s;
           animation-delay: 24.65s;
 }
+*/
 .mast__text span:nth-child(115) {
   -webkit-animation-delay: 24.85s;
           animation-delay: 24.85s;
@@ -5687,10 +5719,13 @@ p.mast__text {
   -webkit-animation-delay: 26.25s;
           animation-delay: 26.25s;
 }
+
+/*
 .mast__text span:nth-child(123) {
   -webkit-animation-delay: 26.45s;
           animation-delay: 26.45s;
 }
+*/
 .mast__text span:nth-child(124) {
   -webkit-animation-delay: 26.65s;
           animation-delay: 26.65s;
@@ -5723,18 +5758,25 @@ p.mast__text {
   -webkit-animation-delay: 28.05s;
           animation-delay: 28.05s;
 }
+
+/* И всё будет прекрасно ...*/
+/*
 .mast__text span:nth-child(132) {
   -webkit-animation-delay: 28.25s;
           animation-delay: 28.25s;
 }
+*/
 .mast__text span:nth-child(133) {
   -webkit-animation-delay: 28.45s;
           animation-delay: 28.45s;
 }
+
+/*
 .mast__text span:nth-child(134) {
   -webkit-animation-delay: 28.65s;
           animation-delay: 28.65s;
 }
+*/
 .mast__text span:nth-child(135) {
   -webkit-animation-delay: 28.85s;
           animation-delay: 28.85s;
@@ -5747,10 +5789,13 @@ p.mast__text {
   -webkit-animation-delay: 29.25s;
           animation-delay: 29.25s;
 }
+
+/*
 .mast__text span:nth-child(138) {
   -webkit-animation-delay: 29.45s;
           animation-delay: 29.45s;
 }
+*/
 .mast__text span:nth-child(139) {
   -webkit-animation-delay: 29.65s;
           animation-delay: 29.65s;
@@ -5771,10 +5816,13 @@ p.mast__text {
   -webkit-animation-delay: 30.45s;
           animation-delay: 30.45s;
 }
+
+/*
 .mast__text span:nth-child(144) {
   -webkit-animation-delay: 30.65s;
           animation-delay: 30.65s;
 }
+*/
 .mast__text span:nth-child(145) {
   -webkit-animation-delay: 30.85s;
           animation-delay: 30.85s;
@@ -5815,10 +5863,13 @@ p.mast__text {
   -webkit-animation-delay: 32.65s;
           animation-delay: 32.65s;
 }
+
+/*
 .mast__text span:nth-child(155) {
   -webkit-animation-delay: 32.85s;
           animation-delay: 32.85s;
 }
+*/
 .mast__text span:nth-child(156) {
   -webkit-animation-delay: 33.05s;
           animation-delay: 33.05s;
@@ -5843,18 +5894,24 @@ p.mast__text {
   -webkit-animation-delay: 34.05s;
           animation-delay: 34.05s;
 }
+
+/*
 .mast__text span:nth-child(162) {
   -webkit-animation-delay: 34.25s;
           animation-delay: 34.25s;
 }
+*/
 .mast__text span:nth-child(163) {
   -webkit-animation-delay: 34.45s;
           animation-delay: 34.45s;
 }
+
+/*
 .mast__text span:nth-child(164) {
   -webkit-animation-delay: 34.65s;
           animation-delay: 34.65s;
 }
+*/
 .mast__text span:nth-child(165) {
   -webkit-animation-delay: 34.85s;
           animation-delay: 34.85s;
@@ -5875,10 +5932,13 @@ p.mast__text {
   -webkit-animation-delay: 35.65s;
           animation-delay: 35.65s;
 }
+
+/*
 .mast__text span:nth-child(170) {
   -webkit-animation-delay: 35.85s;
           animation-delay: 35.85s;
 }
+*/
 .mast__text span:nth-child(171) {
   -webkit-animation-delay: 36.05s;
           animation-delay: 36.05s;
@@ -5895,10 +5955,13 @@ p.mast__text {
   -webkit-animation-delay: 36.65s;
           animation-delay: 36.65s;
 }
+
+/*
 .mast__text span:nth-child(175) {
   -webkit-animation-delay: 36.85s;
           animation-delay: 36.85s;
 }
+*/
 .mast__text span:nth-child(176) {
   -webkit-animation-delay: 37.05s;
           animation-delay: 37.05s;
@@ -5915,18 +5978,13 @@ p.mast__text {
   -webkit-animation-delay: 37.65s;
           animation-delay: 37.65s;
 }
+
+/*
 .mast__text span:nth-child(180) {
   -webkit-animation-delay: 37.85s;
           animation-delay: 37.85s;
 }
 */
-
-
-
-
-
-
-/*
 .mast__text span:nth-child(181) {
   -webkit-animation-delay: 15.25s;
           animation-delay: 15.25s;
@@ -5963,10 +6021,13 @@ p.mast__text {
   -webkit-animation-delay: 16.05s;
           animation-delay: 16.05s;
 }
+
+/*
 .mast__text span:nth-child(159) {
   -webkit-animation-delay: 16.15s;
           animation-delay: 16.15s;
 }
+*/
 .mast__text span:nth-child(160) {
   -webkit-animation-delay: 16.25s;
           animation-delay: 16.25s;
@@ -5995,10 +6056,13 @@ p.mast__text {
   -webkit-animation-delay: 16.85s;
           animation-delay: 16.85s;
 }
+
+/*
 .mast__text span:nth-child(167) {
   -webkit-animation-delay: 16.95s;
           animation-delay: 16.95s;
 }
+*/
 .mast__text span:nth-child(168) {
   -webkit-animation-delay: 17.05s;
           animation-delay: 17.05s;
@@ -6007,10 +6071,13 @@ p.mast__text {
   -webkit-animation-delay: 17.15s;
           animation-delay: 17.15s;
 }
+
+/*
 .mast__text span:nth-child(170) {
   -webkit-animation-delay: 17.25s;
           animation-delay: 17.25s;
 }
+*/
 .mast__text span:nth-child(171) {
   -webkit-animation-delay: 17.35s;
           animation-delay: 17.35s;
@@ -6031,27 +6098,13 @@ p.mast__text {
   -webkit-animation-delay: 17.75s;
           animation-delay: 17.75s;
 }
-.mast__text span:nth-child(176) {
-  -webkit-animation-delay: 17.85s;
-          animation-delay: 17.85s;
-}
-.mast__text span:nth-child(177) {
-  -webkit-animation-delay: 17.95s;
-          animation-delay: 17.95s;
-}
-.mast__text span:nth-child(178) {
-  -webkit-animation-delay: 18.05s;
-          animation-delay: 18.05s;
-}
-.mast__text span:nth-child(179) {
-  -webkit-animation-delay: 18.15s;
-          animation-delay: 18.15s;
-}
-.mast__text span:nth-child(180) {
-  -webkit-animation-delay: 18.25s;
-          animation-delay: 18.25s;
-}
-*/
+
+
+
+
+
+
+
 @-webkit-keyframes letter-glow {
   0% {
     opacity: 0;
