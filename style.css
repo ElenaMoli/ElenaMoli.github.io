@@ -4947,8 +4947,8 @@ p.mast__text {
           animation-delay: 4.65s;
 }
 .mast__text span:nth-child(38) {
-  -webkit-animation-delay: 5.35s;
-          animation-delay: 5.35s;
+  -webkit-animation-delay: 4.75s;
+          animation-delay: 4.75s;
 }
 
 
@@ -4961,8 +4961,8 @@ p.mast__text {
 */
 
 .mast__text span:nth-child(40) {
-  -webkit-animation-delay: 5.15s;
-          animation-delay: 5.15s;
+  -webkit-animation-delay: 4.95s;
+          animation-delay: 4.95s;
 }
 
 /*
@@ -4972,32 +4972,32 @@ p.mast__text {
 }
 */
 .mast__text span:nth-child(42) {
+  -webkit-animation-delay: 5.15s;
+          animation-delay: 5.15s;
+}
+.mast__text span:nth-child(43) {
+  -webkit-animation-delay: 5.25s;
+          animation-delay: 5.25s;
+}
+.mast__text span:nth-child(44) {
   -webkit-animation-delay: 5.35s;
           animation-delay: 5.35s;
 }
-.mast__text span:nth-child(43) {
+.mast__text span:nth-child(45) {
   -webkit-animation-delay: 5.45s;
           animation-delay: 5.45s;
 }
-.mast__text span:nth-child(44) {
+.mast__text span:nth-child(46) {
   -webkit-animation-delay: 5.55s;
           animation-delay: 5.55s;
-}
-.mast__text span:nth-child(45) {
-  -webkit-animation-delay: 5.65s;
-          animation-delay: 5.65s;
-}
-.mast__text span:nth-child(46) {
-  -webkit-animation-delay: 5.65s;
-          animation-delay: 5.65s;
 }
 .mast__text span:nth-child(47) {
   -webkit-animation-delay: 5.65s;
           animation-delay: 5.65s;
 }
 .mast__text span:nth-child(48) {
-  -webkit-animation-delay: 6.55s;
-          animation-delay: 6.55s;
+  -webkit-animation-delay: 5.75s;
+          animation-delay: 5.75s;
 }
 
 /*
@@ -5039,8 +5039,8 @@ p.mast__text {
           animation-delay: 6.65s;
 }
 .mast__text span:nth-child(58) {
-  -webkit-animation-delay: 7.65s;
-          animation-delay: 7.65s;
+  -webkit-animation-delay: 6.75s;
+          animation-delay: 6.75s;
 }
 
 /*
@@ -5070,8 +5070,8 @@ p.mast__text {
           animation-delay: 7.35s;
 }
 .mast__text span:nth-child(65) {
-  -webkit-animation-delay: 8.45s;
-          animation-delay: 8.45s;
+  -webkit-animation-delay: 7.45s;
+          animation-delay: 7.45s;
 }
 
 /*
@@ -5101,12 +5101,12 @@ p.mast__text {
           animation-delay: 8.05s;
 }
 .mast__text span:nth-child(72) {
-  -webkit-animation-delay: 8.25s;
-          animation-delay: 8.25s;
+  -webkit-animation-delay: 8.15s;
+          animation-delay: 8.15s;
 }
 .mast__text span:nth-child(73) {
-  -webkit-animation-delay: 8.35s;
-          animation-delay: 8.35s;
+  -webkit-animation-delay: 8.25s;
+          animation-delay: 8.25s;
 }
 
 /*
