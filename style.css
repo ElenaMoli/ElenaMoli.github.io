@@ -72,9 +72,15 @@ body {
     top:50%;
     opacity: 0.8; 
 }
-
+.icon-excel {
+background:url("close_button.png");
+padding-left : 32px;
+padding-top : 10px;
+padding-bottom : 10px;
+background-repeat : no-repeat;
+}
 .closeButton {
-	background:url(close_button.png) no-repeat;
+	/*background:url(close_button.png) no-repeat;*/
     position: absolute;
     top: 10%;
     left: 67%;
