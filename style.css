@@ -6154,10 +6154,41 @@ p.mast__text {
   -webkit-animation-delay: 35.95s;
           animation-delay: 35.95s;
 }*/
+.mast__text span:nth-child(433) {
+  -webkit-animation-delay: 36.35s;
+          animation-delay: 36.15s;
+}
+.mast__text span:nth-child(434) {
+  -webkit-animation-delay: 36.45s;
+          animation-delay: 36.45s;
+}
 
-
-
-
+/*
+.mast__text span:nth-child(435) {
+  -webkit-animation-delay: 36.35s;
+          animation-delay: 36.15s;
+}
+*/
+.mast__text span:nth-child(436) {
+  -webkit-animation-delay: 36.55s;
+          animation-delay: 36.55s;
+}
+.mast__text span:nth-child(437) {
+  -webkit-animation-delay: 36.65s;
+          animation-delay: 36.65s;
+}
+.mast__text span:nth-child(438) {
+  -webkit-animation-delay: 36.75s;
+          animation-delay: 36.75s;
+}
+.mast__text span:nth-child(439) {
+  -webkit-animation-delay: 36.85s;
+          animation-delay: 36.85s;
+}
+.mast__text span:nth-child(440) {
+  -webkit-animation-delay: 36.95s;
+          animation-delay: 36.95s;
+}
 
 
 @-webkit-keyframes letter-glow {
