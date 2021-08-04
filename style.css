@@ -6195,6 +6195,20 @@ p.mast__text {
 }
 
 
+.mast__text span:nth-child(441) {
+  -webkit-animation-delay: 36.85s;
+          animation-delay: 36.85s;
+}
+.mast__text span:nth-child(442) {
+  -webkit-animation-delay: 36.95s;
+          animation-delay: 36.95s;
+}
+.mast__text span:nth-child(443) {
+  -webkit-animation-delay: 37.05s;
+          animation-delay: 37.05s;
+}
+
+
 @-webkit-keyframes letter-glow {
   0% {
     opacity: 0;
