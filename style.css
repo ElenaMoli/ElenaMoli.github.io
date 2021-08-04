@@ -72,8 +72,51 @@ body {
     top:50%;
     opacity: 0.8; 
 }
-.close {
+/*.close {
 	position: absolute;
+    top: 10%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+	 background: transparent;
+    font-size: 16px;
+   padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  width: 1em;
+  height: 1em;
+  background-color: black;
+  clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
+}*/
+/*.icon-excel {
+background:url("close_button.png");
+padding-left : 32px;
+padding-top : 10px;
+padding-bottom : 10px;
+background-repeat : no-repeat;
+}*/
+/*.closeButton {
+    position: absolute;
+    top: 10%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+ /*   background-color: #555;*/
+	 background: transparent;
+   /* color: white;*/
+    font-size: 16px;
+   padding: 10px 10px;
+	height: 10px;
+width: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}*/
+.closeButton {
+position: absolute;
     top: 10%;
     left: 67%;
     transform: translate(-50%, -50%);
@@ -91,31 +134,6 @@ body {
   height: 1em;
   background-color: black;
   clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
-}
-/*.icon-excel {
-background:url("close_button.png");
-padding-left : 32px;
-padding-top : 10px;
-padding-bottom : 10px;
-background-repeat : no-repeat;
-}*/
-.closeButton {
-    position: absolute;
-    top: 10%;
-    left: 67%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
- /*   background-color: #555;*/
-	 background: transparent;
-   /* color: white;*/
-    font-size: 16px;
-   padding: 10px 10px;
-	height: 10px;
-width: 10px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-    text-align: center;
 }
 
 .container .closeButton:hover {
