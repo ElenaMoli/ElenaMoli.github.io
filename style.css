@@ -79,8 +79,7 @@ padding-top : 10px;
 padding-bottom : 10px;
 background-repeat : no-repeat;
 }
-.closeButton {
-	/*background:url(close_button.png) no-repeat;*/
+/*.closeButton {
     position: absolute;
     top: 10%;
     left: 67%;
@@ -100,7 +99,7 @@ width: 10px;
 
 .container .closeButton:hover {
     background-color: black;
-}
+}*/
 /*.fixed-overlay {
   position: fixed;
   overflow: auto;
