@@ -75,8 +75,8 @@ body {
 
 .fixed-overlay .closeButton {
     position: absolute;
-    top: 25%;
-    left: 70%;
+    top: 15%;
+    left: 60%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: #555;
