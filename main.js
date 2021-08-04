@@ -128,7 +128,7 @@ $(document).ready(function () {
             data: $(this).serialize()
         });
     });
-    $("#closeButton").click(function () {
+    $(".closeButton").click(function () {
         $(".fixed-overlay").css("display", "none");
         history.pushState(false, "", ".");
       
