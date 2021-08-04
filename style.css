@@ -74,6 +74,7 @@ body {
 }
 
 .closeButton {
+	background:url(close_button.png) no-repeat;
     position: absolute;
     top: 10%;
     left: 70%;
