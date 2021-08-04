@@ -73,7 +73,7 @@ body {
     opacity: 0.8; 
 }
 
-.closeButton {
+.fixed-overlay .closeButton {
     position: absolute;
     top: 50%;
     left: 50%;
