@@ -5440,11 +5440,13 @@ p.mast__text {
 
 
 
-/*
-.mast__text span:nth-child(62) {
-  -webkit-animation-delay: 14.25s;
-          animation-delay: 14.25s;
+
+.mast__text span:nth-child(148) {
+  -webkit-animation-delay: 17.55s;
+          animation-delay: 17.55s;
 }
+
+/*
 .mast__text span:nth-child(63) {
   -webkit-animation-delay: 14.45s;
           animation-delay: 14.45s;
