@@ -757,8 +757,8 @@ em.planet.right {
 
 .c {
   background: white;
-  height: 2px;
-  width: 2px;
+  height: 1px;
+  width: 1px;
   position: absolute;
   border-radius: 50%;
 }
