@@ -375,7 +375,7 @@ html {
   justify-content: right;
   align-items: right;
 }*/
-///////////////////
+
 /*.content_1 {
   letter-spacing: 10px;
   font-size: 200px;
@@ -742,21 +742,7 @@ em.planet.right {
   }
 }
 /* Добавляем фон */
-
-
-
-
-
-
-/*//Мобильная адаптация {
-@media only screen and (max-width: 600px) {
-  .modal {
-    width: 90%;
-  }
-body{
-	overflow: hidden;
-	}
-}*/	
+	
 
 
 /*Кнопку нажали*/
@@ -6301,7 +6287,7 @@ p.mast__text {
 
 
 /*Под мобилку*/
-@media screen and (min-width: 700px) {
+/*@media screen and (min-width: 700px) {
    .emblem {
 	width: 30px;
 	height: 30px;
@@ -6367,5 +6353,5 @@ p.mast__text {
  letter-spacing: 4px;
  font-size: 3px; 
 }	
-}
+}*/
 
