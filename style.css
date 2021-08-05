@@ -6291,7 +6291,7 @@ p.mast__text {
 
 /*Под мобилку*/
 /* Small Devices, Tablets */
-@media only screen and (max-width : 768px) {
+/*@media only screen and (max-width : 768px) {
   .close {
   background-color: red;
 }
@@ -6305,7 +6305,7 @@ p.mast__text {
     top:50%;
 	 opacity: 0.8; 
 }
-}
+}*/
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
