@@ -384,7 +384,7 @@ html {
   height: 100%;
 }
 
-body {
+/*body {
   margin: 0;
   height: 100%;
   overflow: hidden;
@@ -393,7 +393,7 @@ body {
   align-items: center;
   background: black;
   color: #ccc;
-}
+}*/
 
 
 /* Оформляем стишочек */
