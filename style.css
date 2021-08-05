@@ -220,8 +220,8 @@ width: 10px;
 	margin-left:auto;
 	margin-bottom: 1px;
 	margin-right: 1px;*/
-	width: 160px;
-	height: 160px;
+	width: 100px;
+	height: 100px;
 	border-radius: 70%;
   font-weight: bold;
 	color:  #eee;
@@ -334,9 +334,13 @@ html .content span, body .content span {
   display: inline-block;
 }
 
+.random {
+	 letter-spacing: 15px;
+}
+
 .content {
 	 letter-spacing: 15px;
- font-size: 81px; 
+ font-size: 50px; 
 }
 
 .content_2 {
