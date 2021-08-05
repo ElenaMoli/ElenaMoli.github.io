@@ -210,7 +210,22 @@ width: 10px;
 /* Открыть Поздравления */
 
 
+@media screen and (min-width: 300px) and (max-width: 499px) {
+    .emblem {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.content {
+	 letter-spacing: 7px;
+ font-size: 9px; 
+}
 
+.content_2 {
+ letter-spacing: 4px;
+ font-size: 3px; 
+}	
+}
 
 
 .emblem {
@@ -6322,7 +6337,7 @@ p.mast__text {
     }
 }
 
-@media screen and (min-width: 300px) and (max-width: 499px) {
+/*@media screen and (min-width: 300px) and (max-width: 499px) {
     .emblem {
 	width: 30px;
 	height: 30px;
@@ -6337,5 +6352,5 @@ p.mast__text {
  letter-spacing: 4px;
  font-size: 3px; 
 }	
-}
+}*/
 
