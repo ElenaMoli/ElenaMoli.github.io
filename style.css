@@ -223,8 +223,8 @@ width: 10px;
 	margin-left:auto;
 	margin-bottom: 1px;
 	margin-right: 1px;*/
-	width: 10vh;
-	height: 10vh;
+	width: 10px;
+	height: 10px;
 	border-radius: 50%;
   font-weight: bold;
 	color:  #eee;
@@ -6304,4 +6304,27 @@ p.mast__text {
 
 
 /*Под мобилку*/
+@media screen and (min-width: 700px) {
+    .connect p {
+        font-size: 28px;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 699px) {
+    .connect p {
+        font-size: 25px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 599px) {
+    .connect p {
+        font-size: 21px;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 499px) {
+    .connect p {
+        font-size: 14px;
+    }
+}
 
