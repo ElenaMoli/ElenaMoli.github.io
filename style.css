@@ -73,7 +73,7 @@ body {
     opacity: 0.8; 
 }
 .close {
-/*	position: absolute;
+	position: absolute;
     top: 13%;
     left: 68%;
     transform: translate(-50%, -50%);
@@ -84,7 +84,7 @@ body {
     border: none;
     cursor: pointer;
     border-radius: 5px;
-    text-align: center;*/
+    text-align: center;
   width: 1em;
   height: 1em;
   background-color: black;
