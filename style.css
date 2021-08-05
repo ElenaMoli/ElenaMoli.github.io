@@ -225,7 +225,7 @@ width: 10px;
 	margin-right: 1px;*/
 	width: 160px;
 	height: 160px;
-	border-radius: 50%;
+	border-radius: 70%;
   font-weight: bold;
 	color:  #eee;
 	animation: spinZ 20s linear infinite;
@@ -6326,6 +6326,7 @@ p.mast__text {
     .emblem {
 	width: 30px;
 	height: 30px;
+	border-radius: 50%;
 }
 .content {
 	 letter-spacing: 7px;
