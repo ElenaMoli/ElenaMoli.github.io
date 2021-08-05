@@ -338,16 +338,17 @@ html .content span, body .content span {
   display: inline-block;
 }
 
-.content {
-	 letter-spacing: 15px;
- font-size: 17px; 
-}
 
 .content_2 {
 		margin-top:10%;
  letter-spacing: 6px;
  font-size: 6px; 
  color: #eee;
+}
+
+.content {
+	 letter-spacing: 15px;
+ font-size: 17px; 
 }
 
 html {
