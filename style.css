@@ -334,19 +334,19 @@ html .content span, body .content span {
   display: inline-block;
 }
 
+.content {
+	 letter-spacing: 15px;
+ font-size: 27px; 
+}
+
 .random {
 	 letter-spacing: 15px;
 }
 
-.content {
-	 letter-spacing: 15px;
- font-size: 50px; 
-}
-
 .content_2 {
 		margin-top:10%;
- letter-spacing: 15px;
- font-size: 27px; 
+ letter-spacing: 6px;
+ font-size: 6px; 
  color: #eee;
 }
 
