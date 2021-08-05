@@ -223,8 +223,8 @@ width: 10px;
 	margin-left:auto;
 	margin-bottom: 1px;
 	margin-right: 1px;*/
-	width: 120px;
-	height: 120px;
+	width: 140px;
+	height: 140px;
 	border-radius: 50%;
   font-weight: bold;
 	color:  #eee;
@@ -338,14 +338,14 @@ html .content span, body .content span {
 }
 
 .content {
-	 letter-spacing: 50px;
- font-size: 9px; 
+	 letter-spacing: 9px;
+ font-size: 50px; 
 }
 
 .content_2 {
 		margin-top:10%;
- letter-spacing: 16px;
- font-size: 7px; 
+ letter-spacing: 7px;
+ font-size: 16px; 
  color: #eee;
 }
 
