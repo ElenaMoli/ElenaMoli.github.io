@@ -36,10 +36,10 @@ body {
 	max-height: 100%;
 }
 
-/*.container {
+.container {
 	margin-right:20%;
 	margin-top:5%;
-}*/
+}
 
 /* Поздравления */
 /*<div class="fixed-overlay">
@@ -331,6 +331,11 @@ align-items: center;
 html .content span, body .content span {
   width: 50px;
   display: inline-block;
+}
+
+.content {
+	 letter-spacing: 7px;
+ font-size: 7px; 
 }
 
 .content_2 {
