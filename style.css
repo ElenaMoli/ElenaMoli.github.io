@@ -343,10 +343,6 @@ html .content span, body .content span {
  font-size: 17px; 
 }
 
-.random {
-	 letter-spacing: 15px;
-}
-
 .content_2 {
 		margin-top:10%;
  letter-spacing: 6px;
@@ -387,10 +383,6 @@ html {
 }*/
 
 /* Добавляем фон */
-html {
-  margin: 0;
-  height: 100%;
-}
 
 /*body {
   margin: 0;
