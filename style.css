@@ -6301,23 +6301,56 @@ p.mast__text {
 
 
 /*Под мобилку*/
-/*@media screen and (min-width: 700px) {
-    .connect p {
-        font-size: 28px;
-    }
+@media screen and (min-width: 700px) {
+   .emblem {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.content {
+	 letter-spacing: 7px;
+ font-size: 9px; 
+}
+
+.content_2 {
+ letter-spacing: 4px;
+ font-size: 3px; 
+}	
 }
 
 @media screen and (min-width: 600px) and (max-width: 699px) {
-    .connect p {
-        font-size: 25px;
-    }
+    .emblem {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.content {
+	 letter-spacing: 7px;
+ font-size: 9px; 
+}
+
+.content_2 {
+ letter-spacing: 4px;
+ font-size: 3px; 
+}	
 }
 
 @media screen and (min-width: 500px) and (max-width: 599px) {
-    .connect p {
-        font-size: 21px;
-    }
-}*/
+     .emblem {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.content {
+	 letter-spacing: 7px;
+ font-size: 9px; 
+}
+
+.content_2 {
+ letter-spacing: 4px;
+ font-size: 3px; 
+}	
+}
 
 @media screen and (min-width: 300px) and (max-width: 499px) {
     .emblem {
