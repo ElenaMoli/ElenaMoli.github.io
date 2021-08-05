@@ -6308,7 +6308,7 @@ p.mast__text {
 }*/
 
 /* Extra Small Devices, Phones */
-@media only screen and (max-width : 480px) {
+/*@media only screen and (max-width : 480px) {
   .close {
   background-color: red;
 }
@@ -6322,10 +6322,10 @@ p.mast__text {
     top:50%;
 	 opacity: 0.8; 
 }
-}
+}*/
 
 /* Custom, iPhone Retina */
-@media only screen and (max-width : 320px) {
+/*@media only screen and (max-width : 320px) {
 .close {
   background-color: red;
 	}
@@ -6339,5 +6339,5 @@ p.mast__text {
     top:50%;
 	 opacity: 0.8; 
 }
-}
+}*/
 
