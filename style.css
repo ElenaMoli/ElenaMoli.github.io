@@ -338,14 +338,14 @@ html .content span, body .content span {
 }
 
 .content {
-	 letter-spacing: 7px;
+	 letter-spacing: 17px;
  font-size: 9px; 
 }
 
 .content_2 {
 		margin-top:10%;
- letter-spacing: 4px;
- font-size: 3px; 
+ letter-spacing: 6px;
+ font-size: 7px; 
  color: #eee;
 }
 
@@ -956,8 +956,8 @@ body{
 	text-align: justify;
     display: block;
     position: fixed;
-	 font-size: 6px;
-    letter-spacing: 4px;
+	 font-size: 16px;
+    letter-spacing: 6px;
     transform: translate(-50%, -50%);
 	left:53%;
     top:55%;
@@ -6327,5 +6327,14 @@ p.mast__text {
 	width: 30px;
 	height: 30px;
 }
+.content {
+	 letter-spacing: 7px;
+ font-size: 9px; 
+}
+
+.content_2 {
+ letter-spacing: 4px;
+ font-size: 3px; 
+}	
 }
 
