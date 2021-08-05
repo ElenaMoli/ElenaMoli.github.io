@@ -99,7 +99,7 @@ background-repeat : no-repeat;
 }*/
 .closeButton {
     top: 15%;
-    left: 65%;
+    right: 65%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 	 background: transparent;
