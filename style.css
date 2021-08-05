@@ -6305,13 +6305,6 @@ p.mast__text {
     top:50%;
 	 opacity: 0.8; 
 }
-	.mast__text {
-	 font-size: 5px;
-    letter-spacing: 1px;
-}
-p.mast__text {
-	line-height: 0;
-}
 }
 
 /* Extra Small Devices, Phones */
@@ -6329,13 +6322,6 @@ p.mast__text {
     top:50%;
 	 opacity: 0.8; 
 }
-		.mast__text {
-	 font-size: 5px;
-    letter-spacing: 1px;
-}
-p.mast__text {
-	line-height: 0;
-}
 }
 
 /* Custom, iPhone Retina */
@@ -6352,13 +6338,6 @@ p.mast__text {
     left:50%;
     top:50%;
 	 opacity: 0.8; 
-}
-		.mast__text {
-	 font-size: 5px;
-    letter-spacing: 1px;
-}
-p.mast__text {
-	line-height: 0;
 }
 }
 
