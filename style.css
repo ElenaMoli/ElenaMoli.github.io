@@ -329,7 +329,7 @@ align-items: center;
 }*/
 
 html .content span, body .content span {
-  width: 50px;
+  width: 25px;
   display: inline-block;
 }
 
