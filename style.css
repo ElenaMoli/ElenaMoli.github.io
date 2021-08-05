@@ -73,18 +73,6 @@ body {
     opacity: 0.8; 
 }
 .close {
-	position: absolute;
-    top: 13%;
-    left: 68%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-	 background: transparent;
-    font-size: 16px;
-   padding: 10px 10px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-    text-align: center;
   width: 1em;
   height: 1em;
   background-color: black;
@@ -97,7 +85,7 @@ padding-top : 10px;
 padding-bottom : 10px;
 background-repeat : no-repeat;
 }*/
-.closeButton {
+/*.closeButton {
     top: 15%;
     right: 65%;
     transform: translate(-50%, -50%);
@@ -111,7 +99,7 @@ width: 10px;
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
-}
+}*/
 
 
 .container .closeButton:hover {
