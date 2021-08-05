@@ -37,7 +37,6 @@ body {
 }
 
 .container {
-	display: flex;
 	margin-right:20%;
 	margin-top:5%;
 }
