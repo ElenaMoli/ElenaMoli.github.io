@@ -329,14 +329,9 @@ align-items: center;
 }*/
 
 html .content span, body .content span {
-  width: 25px;
+  width: 50px;
   display: inline-block;
 }
-
-/*.content {
-	 letter-spacing: 7px;
- font-size: 7px; 
-}*/
 
 .content_2 {
 		margin-top:10%;
