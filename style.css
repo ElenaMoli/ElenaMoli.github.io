@@ -336,10 +336,14 @@ align-items: center;
 html .content span, body .content span {
   width: 27px;
   display: inline-block;
-	 letter-spacing: 15px;
- font-size: 17px; 
+	/* letter-spacing: 15px;
+ font-size: 17px; */
 }
 
+.random {
+ letter-spacing: 15px;
+ font-size: 17px; 
+}
 
 .content_2 {
 		margin-top:10%;
