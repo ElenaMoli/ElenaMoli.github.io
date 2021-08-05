@@ -328,10 +328,10 @@ top:30%;
 align-items: center;	
 }*/
 
-html .content span, body .content span {
-  width: 25px;
+/*html .content span, body .content span {
+  width: 2px;
   display: inline-block;
-}
+}*/
 
 .content {
 	 letter-spacing: 6px;
