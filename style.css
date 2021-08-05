@@ -223,8 +223,8 @@ width: 10px;
 	margin-left:auto;
 	margin-bottom: 1px;
 	margin-right: 1px;*/
-	width: 140px;
-	height: 140px;
+	width: 160px;
+	height: 160px;
 	border-radius: 50%;
   font-weight: bold;
 	color:  #eee;
@@ -333,19 +333,19 @@ align-items: center;
 }*/
 
 html .content span, body .content span {
-  width: 27px;
+  width: 50px;
   display: inline-block;
 }
 
 .content {
-	 letter-spacing: 9px;
- font-size: 50px; 
+	 letter-spacing: 15px;
+ font-size: 60px; 
 }
 
 .content_2 {
 		margin-top:10%;
- letter-spacing: 7px;
- font-size: 16px; 
+ letter-spacing: 11px;
+ font-size: 25px; 
  color: #eee;
 }
 
