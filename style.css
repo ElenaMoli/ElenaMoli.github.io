@@ -334,13 +334,13 @@ html .content span, body .content span {
 }
 
 .content {
-	 letter-spacing: 6px;
+	 letter-spacing: 7px;
  font-size: 7px; 
 }
 
 .content_2 {
 		margin-top:10%;
- letter-spacing: 3px;
+ letter-spacing: 4px;
  font-size: 3px; 
  color: #eee;
 }
