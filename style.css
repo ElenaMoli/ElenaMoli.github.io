@@ -333,6 +333,11 @@ html .content span, body .content span {
   display: inline-block;
 }
 
+.content {
+	 letter-spacing: 6px;
+ font-size: 7px; 
+}
+
 .content_2 {
 		margin-top:10%;
  letter-spacing: 6px;
