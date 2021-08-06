@@ -495,7 +495,7 @@ em.planet.right {
 
 
 
-.sep {
+/*.sep {
   border: 0;
   width: 3em;
   height: 1px;
@@ -547,7 +547,7 @@ em.planet.right {
   letter-spacing: 0.3em;
   text-transform: uppercase;
 }
-
+*/
 /*
 .mast__title span {
   -webkit-animation: letter-glow 0.7s 0s ease both;
