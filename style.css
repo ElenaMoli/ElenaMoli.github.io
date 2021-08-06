@@ -138,6 +138,10 @@ svg:hover text{
   font-size: 400px;
 }
 
+.random {
+	white-space: pre-wrap;
+}
+
 .ltr {
 	font-size: 25px; 
 }
