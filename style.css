@@ -40,11 +40,6 @@ body {
 	max-height: 100%;
 }
 
-.all {
-display: inline-block;	
-}
-
-
 
 .container {
 	display: inline-block;
@@ -352,10 +347,9 @@ html .content span, body .content span {
  color: #eee;
 }
 
-/*.content {
-	 letter-spacing: 15px;
- font-size: 17px; 
-}*/
+.content {
+	display: inline-block;
+}
 
 html {
 	display: inline-block;
