@@ -78,7 +78,7 @@ width: 10px;
 	 border: 0px solid #fff;
 }
 #openButton:hover {
-  transition: .5s linear;
+  transition: .10s linear;
   background-position: -200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
 }
 /* Открыть Поздравления */
