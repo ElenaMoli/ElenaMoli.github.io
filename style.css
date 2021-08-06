@@ -178,6 +178,7 @@ html .content span, body .content span {
 }
 
 .all { 
+	text-align: center;
 	display: inline-block;
 }
 
