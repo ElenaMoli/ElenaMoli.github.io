@@ -177,9 +177,7 @@ html .content span, body .content span {
 	text-align: center;
 }
 
-.all {
-	margin: 0 0 0 0;
-	text-align: center; 
+.all { 
 	display: inline-block;
 }
 
