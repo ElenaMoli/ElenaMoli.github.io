@@ -25,10 +25,6 @@ body {
 	text-align: center;
 }
 
-.container {
-	display: inline-block;
-}
-
 /* Поздравления */
 .fixed-overlay {
      position: fixed;
@@ -77,28 +73,7 @@ width: 10px;
 }
 
 /* Открыть Поздравления */
-#openButton {
-	padding: 0;
-	 background: #000000;
-  color: #000000;
-	border-radius: 0px;
-	margin-top: 20%;
-	margin-right: 30%;
-	margin-bottom: auto;
-	margin-left: auto;
-	 display: inline-block;
-  border: 0px solid #fff;
-  outline: none;
-  text-decoration: none;
-}
 
-#openButton:hover {
-  transition: .5s linear;
-  background-position: -200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
-}
-#openButton:active {
-  top: 1px;
-}
 /* Открыть Поздравления */
 
 
@@ -141,37 +116,17 @@ width: 10px;
 
 
 svg{
-	justify-content: center;
-  align-items: center;
   background:url('envelope.png');
-  min-width: 100%;
-  background-size:cover;
   width:30vmin; height:auto;
-  display:block;
-  text-align: center;
 }
 text{
   font-size:7px;
   transition:font-size .4s ease-out;
-  font-weight:900;
   font-family:arial;
 }
 svg:hover text{
   transition:font-size .4s ease-in;
   font-size: 300px;
-}
-
-
-html .content span, body .content span {
-  width: 27px;
-  display: inline-block;
-}
-
-.content_2 {
-		margin-top:10%;
- letter-spacing: 6px;
- font-size: 6px; 
- color: #eee;
 }
 
 .ltr {
@@ -181,14 +136,6 @@ html .content span, body .content span {
 .random {
 	  letter-spacing: 35px;
 	white-space: pre-wrap;
-	text-align: center;
-}
-
-.all { 
-	left:50%;
-    top:50%;
-    transform: translate(-50%, -50%);
-	display: inline-block;
 }
 
 html {
