@@ -139,8 +139,6 @@ width: 10px;
 
 
 svg{
-	 justify-content: center;
-  align-items: center;
   background:url('envelope.png');
   min-width: 100%;
   background-size:cover;
@@ -177,6 +175,8 @@ html .content span, body .content span {
 }
 
 .random {
+	justify-content: center;
+  align-items: center;
 	  letter-spacing: 35px;
 	white-space: pre-wrap;
 	text-align: center;
