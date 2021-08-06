@@ -40,7 +40,9 @@ body {
 	max-height: 100%;
 }
 
-
+.all {
+display: inline-block;	
+}
 
 
 
