@@ -161,8 +161,8 @@ svg:hover text{
 html .content span, body .content span {
   width: 27px;
   display: inline-block;
-	/* letter-spacing: 15px;
- font-size: 17px; */
+  letter-spacing: 15px;
+  font-size: 17px; 
 }
 
 .content_2 {
@@ -173,8 +173,6 @@ html .content span, body .content span {
 }
 
 .content .random {
-	letter-spacing: 17px;
- font-size: 10px; 
 	white-space: pre-wrap;
 	text-align: center;
 }
