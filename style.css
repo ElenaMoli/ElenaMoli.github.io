@@ -347,6 +347,10 @@ html .content span, body .content span {
  color: #eee;
 }
 
+.all {
+	display: inline-block;
+}
+
 .content {
 	display: inline-block;
 }
