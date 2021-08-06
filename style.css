@@ -934,7 +934,9 @@ em.planet.right {
   line-height: 1.5;
   white-space: pre;
 }*/
-
+.random {
+	white-space: pre-wrap;
+}
 .mast__text {
 	 font-family: "Cutive Mono", monospace;
 	font-style: oblique;
