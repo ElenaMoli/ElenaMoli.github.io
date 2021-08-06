@@ -117,6 +117,7 @@ width: 10px;
 
 svg{
   background:url('envelope.png');
+	background-size:cover;
   width:30vmin; height:auto;
 }
 text{
