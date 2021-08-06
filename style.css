@@ -340,10 +340,6 @@ html .content span, body .content span {
  font-size: 17px; */
 }
 
-.random {
-text-align: center;	
-}
-
 .content_2 {
 		margin-top:10%;
  letter-spacing: 6px;
@@ -945,6 +941,7 @@ em.planet.right {
   white-space: pre;
 }*/
 .random {
+	text-align: center;
 	white-space: pre-wrap;
 }
 .mast__text {
