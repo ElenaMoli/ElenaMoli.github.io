@@ -142,12 +142,6 @@ svg:hover text{
 	font-size: 25px; 
 }
 
-.random {
-	text-align: center;
-	  letter-spacing: 35px;
-	white-space: pre-wrap;
-}
-
 html {
 	display: inline-block;
   padding: 0;
