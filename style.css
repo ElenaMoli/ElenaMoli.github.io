@@ -170,6 +170,10 @@ html .content span, body .content span {
  color: #eee;
 }
 
+.ltr {
+	font-size: 40px; 
+}
+
 .random {
 	  letter-spacing: 35px;
 	white-space: pre-wrap;
