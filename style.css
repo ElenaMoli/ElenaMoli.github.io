@@ -139,13 +139,12 @@ width: 10px;
 
 
 svg{
-	text-align: center;
   background:url('envelope.png');
   min-width: 100%;
   background-size:cover;
   width:30vmin; height:auto;
   display:block;
-  text-align:right;
+  text-align: center;
 }
 text{
   font-size:7px;
