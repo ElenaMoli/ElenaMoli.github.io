@@ -173,6 +173,8 @@ html .content span, body .content span {
 }
 
 .content .random {
+	letter-spacing: 17px;
+ font-size: 10px; 
 	white-space: pre-wrap;
 	text-align: center;
 }
