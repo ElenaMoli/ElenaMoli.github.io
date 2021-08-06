@@ -26,7 +26,7 @@ $(document).ready(function(){
   });
   
   function random(){
-    return Math.round(Math.random()*13);
+    return Math.round(Math.random()*9);
   };
   
   function select(){
