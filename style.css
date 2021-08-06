@@ -123,14 +123,10 @@ svg{
 	background-size:cover;
   width:30vmin; height:auto;
 }
-text{
-  font-size:7px;
-  transition:font-size .4s ease-out;
-  font-family:arial;
-}
+
 svg:hover text{
   transition:font-size .4s ease-in;
-  font-size: 300px;
+  font-size: 500px;
 }
 
 .ltr {
