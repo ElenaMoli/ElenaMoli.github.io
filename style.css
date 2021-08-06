@@ -4,9 +4,9 @@
 	 box-sizing: border-box;
 }
 body {
-	display: inline-block;
+	/*display: inline-block;
   justify-content: center;
-  align-items: center;
+  align-items: center;*/
 	padding: 0;
   margin: 0;
 	 position: absolute;
