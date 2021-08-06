@@ -172,12 +172,13 @@ html .content span, body .content span {
  color: #eee;
 }
 
-.random {
-	white-space: pre-wrap;
-}
-
 .content {
 	text-align: center;
+}
+
+.random {
+	text-align: center;
+	white-space: pre-wrap;
 }
 
 .all {
