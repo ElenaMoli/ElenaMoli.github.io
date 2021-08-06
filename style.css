@@ -348,6 +348,7 @@ html .content span, body .content span {
 }
 
 .all {
+	margin: 50% 50% auto auto;
 	display: inline-block;
 }
 
