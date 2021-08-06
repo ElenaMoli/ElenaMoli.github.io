@@ -40,6 +40,9 @@ body {
 	max-height: 100%;
 }
 
+.all .rect {
+	
+}
 
 .container {
 	display: inline-block;
@@ -351,13 +354,13 @@ html .content span, body .content span {
 	white-space: pre-wrap;
 }
 
+.content {
+	text-align: center;
+}
+
 .all {
 	margin: 0 0 0 0;
 	text-align: center; 
-	display: inline-block;
-}
-
-.content {
 	display: inline-block;
 }
 
