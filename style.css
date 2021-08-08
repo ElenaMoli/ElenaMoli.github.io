@@ -147,6 +147,10 @@ svg:hover text{
 	 letter-spacing: 26px;
 }
 
+.need {
+	font-size: 25px; 
+}
+
 html {
 	display: inline-block;
   padding: 0;
