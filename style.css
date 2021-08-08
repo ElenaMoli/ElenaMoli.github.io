@@ -154,6 +154,12 @@ white-space: pre-wrap;
 	font-size: 25px; 
 }
 
+.content_2 {
+		margin-top:10%;
+ letter-spacing: 6px;
+ font-size: 6px; 
+}
+
 html {
 	display: inline-block;
   padding: 0;
