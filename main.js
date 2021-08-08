@@ -16,7 +16,7 @@ $(document).ready(function(){
   var $data = 0;
   var index;
   var change;
-  var letters = ["H", "A", "P", "P", "Y", "B", "I", "R", "T", "H", "D", "A", "Y", "🤍"];
+  var letters = ["H", "A", "P", "P", "Y", "B", "I", "R", "T", "H", "D", "A", "Y"];
   
   $randomnbr.each(function(){
       
