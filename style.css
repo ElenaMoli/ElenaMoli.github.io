@@ -143,6 +143,10 @@ svg:hover text{
 /*.random {
 }*/
 
+.all {
+	transform: translate(-50%, -50%);
+}
+
 .not {
 	font-size: 25px; 
 }
