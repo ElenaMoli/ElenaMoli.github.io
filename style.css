@@ -6057,12 +6057,20 @@ p.mast__text {
     width: 85%;
     height: 60%;
 }
+	.mast__text {
+	 width: 85%;
+    height: 60%;
+}
 }
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
    .fixed-overlay .center-img {
     width: 85%;
+    height: 60%;
+}
+	.mast__text {
+	 width: 85%;
     height: 60%;
 }
 }
@@ -6073,12 +6081,20 @@ p.mast__text {
     width: 85%;
     height: 60%;
 }
+	.mast__text {
+	 width: 85%;
+    height: 60%;
+}
 }
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
   .fixed-overlay .center-img {
     width: 85%;
+    height: 60%;
+}
+	.mast__text {
+	 width: 85%;
     height: 60%;
 }
 }
