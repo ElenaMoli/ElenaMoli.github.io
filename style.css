@@ -6052,29 +6052,32 @@ p.mast__text {
 
 
 /*Под мобилку*/
-@media screen and (min-width: 700px) {
+@media only screen and (max-width : 992px) {
    .fixed-overlay .center-img {
     width: 90%;
     height: 45%;
 }
 }
 
-@media screen and (min-width: 600px) and (max-width: 699px) {
-     .fixed-overlay .center-img {
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+   .fixed-overlay .center-img {
     width: 90%;
     height: 45%;
 }
 }
 
-@media screen and (min-width: 500px) and (max-width: 599px) {
-      .fixed-overlay .center-img {
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+   .fixed-overlay .center-img {
     width: 90%;
     height: 45%;
 }
 }
 
-@media screen and (min-width: 300px) and (max-width: 499px) {
-    .fixed-overlay .center-img {
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+  .fixed-overlay .center-img {
     width: 90%;
     height: 45%;
 }
