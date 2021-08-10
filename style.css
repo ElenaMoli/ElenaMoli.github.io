@@ -6055,11 +6055,11 @@ p.mast__text {
 @media only screen and (max-width : 992px) {
    .fixed-overlay .center-img {
     width: 85%;
-    height: 60%;
+    height: 45%;
 }
-	.mast__text {
-		display: inline-block;
-	 width: 65%;
+   .mast__text {
+    display: inline-block;
+    width: 65%;
 }
 }
 
@@ -6067,10 +6067,11 @@ p.mast__text {
 @media only screen and (max-width : 768px) {
    .fixed-overlay .center-img {
     width: 85%;
+    height: 45%;
 }
-	.mast__text {
-		display: inline-block;
-	 width: 65%;
+   .mast__text {
+    display: inline-block;
+    width: 65%;
 }
 }
 
@@ -6078,11 +6079,11 @@ p.mast__text {
 @media only screen and (max-width : 480px) {
    .fixed-overlay .center-img {
     width: 85%;
-    height: 60%;
+    height: 45%;
 }
-	.mast__text {
-		display: inline-block;
-	 width: 65%;
+   .mast__text {
+    display: inline-block;
+    width: 65%;
 }
 }
 
@@ -6090,11 +6091,11 @@ p.mast__text {
 @media only screen and (max-width : 320px) {
   .fixed-overlay .center-img {
     width: 85%;
-    height: 60%;
+    height: 45%;
 }
-	.mast__text {
-		display: inline-block;
-	 width: 65%;
+  .mast__text {
+    display: inline-block;
+    width: 65%;
 }
 }
 
