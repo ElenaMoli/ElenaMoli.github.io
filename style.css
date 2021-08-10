@@ -704,7 +704,7 @@ em.planet.right {
 	text-align: justify;
     display: block;
     position: fixed;
-	 font-size: 16px;
+	 font-size: 10px;
     letter-spacing: 6px;
     transform: translate(-50%, -50%);
 	left:53%;
