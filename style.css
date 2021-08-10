@@ -6055,7 +6055,7 @@ p.mast__text {
 @media only screen and (max-width : 992px) {
    .fixed-overlay .center-img {
     width: 90%;
-    height: 45%;
+    height: 55%;
 }
 }
 
@@ -6063,7 +6063,7 @@ p.mast__text {
 @media only screen and (max-width : 768px) {
    .fixed-overlay .center-img {
     width: 90%;
-    height: 45%;
+    height: 55%;
 }
 }
 
@@ -6071,7 +6071,7 @@ p.mast__text {
 @media only screen and (max-width : 480px) {
    .fixed-overlay .center-img {
     width: 90%;
-    height: 45%;
+    height: 55%;
 }
 }
 
@@ -6079,7 +6079,7 @@ p.mast__text {
 @media only screen and (max-width : 320px) {
   .fixed-overlay .center-img {
     width: 90%;
-    height: 45%;
+    height: 55%;
 }
 }
 
