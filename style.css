@@ -154,8 +154,6 @@ justify-content: center;
 
 .random {
 	display: inline-block;
-	letter-spacing: 26px;
-	font-size: 25px; 
 	margin-top: 10%;
 	left:50%;
     top:50%;
@@ -165,10 +163,10 @@ justify-content: center;
 white-space: pre-wrap;	
 }
 
-/*.ltr {
+.ltr {
 	 letter-spacing: 26px;
 	font-size: 25px; 
-}*/
+}
 
 .content_2 {
 		margin-top:0%;
