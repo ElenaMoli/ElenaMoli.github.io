@@ -146,6 +146,7 @@ svg:hover text{
 }
 
 .random {
+	text-align: center;
 	height:auto;
 		width:auto;
 	 box-sizing: border-box;
@@ -154,10 +155,6 @@ white-space: pre-wrap;
 }
 
 .ltr {
-	font-size: 25px; 
-}
-
-.need {
 	font-size: 25px; 
 }
 
