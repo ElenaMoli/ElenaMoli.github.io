@@ -6059,8 +6059,7 @@ p.mast__text {
 }
 	.mast__text {
 		display: inline-block;
-	 width: 75%;
-    height: 60%;
+	 width: 65%;
 }
 }
 
@@ -6068,12 +6067,10 @@ p.mast__text {
 @media only screen and (max-width : 768px) {
    .fixed-overlay .center-img {
     width: 85%;
-    height: 60%;
 }
 	.mast__text {
 		display: inline-block;
-	 width: 75%;
-    height: 60%;
+	 width: 65%;
 }
 }
 
@@ -6085,8 +6082,7 @@ p.mast__text {
 }
 	.mast__text {
 		display: inline-block;
-	 width: 75%;
-    height: 60%;
+	 width: 65%;
 }
 }
 
@@ -6098,8 +6094,7 @@ p.mast__text {
 }
 	.mast__text {
 		display: inline-block;
-	 width: 75%;
-    height: 60%;
+	 width: 65%;
 }
 }
 
