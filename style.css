@@ -141,6 +141,10 @@ svg:hover text{
 /*.random {
 }*/
 
+.not {
+	font-size: 25px; 
+}
+
 .random {
 	height:auto;
 		width:auto;
