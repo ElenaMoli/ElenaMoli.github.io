@@ -124,6 +124,7 @@ width: 10px;
 
 
 svg{
+	margin-top: 50%;
   background:url('envelope.png');
 	background-size:cover;
   width:30vmin; height:auto;
