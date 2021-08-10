@@ -6058,7 +6058,8 @@ p.mast__text {
     height: 60%;
 }
 	.mast__text {
-	 width: 85%;
+		display: inline-block;
+	 width: 75%;
     height: 60%;
 }
 }
@@ -6070,7 +6071,8 @@ p.mast__text {
     height: 60%;
 }
 	.mast__text {
-	 width: 85%;
+		display: inline-block;
+	 width: 75%;
     height: 60%;
 }
 }
@@ -6082,7 +6084,8 @@ p.mast__text {
     height: 60%;
 }
 	.mast__text {
-	 width: 85%;
+		display: inline-block;
+	 width: 75%;
     height: 60%;
 }
 }
@@ -6094,7 +6097,8 @@ p.mast__text {
     height: 60%;
 }
 	.mast__text {
-	 width: 85%;
+		display: inline-block;
+	 width: 75%;
     height: 60%;
 }
 }
