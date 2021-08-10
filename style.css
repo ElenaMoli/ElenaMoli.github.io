@@ -143,19 +143,14 @@ svg:hover text{
 /*.random {
 }*/
 
-.all {
-justify-content: center;
-  align-items: center;	
-}
-
 .not {
 	font-size: 25px; 
 }
 
 .random {
 	display: inline-block;
-	left:50%;
-    top:50%;
+	justify-content: center;
+  align-items: center;
 	height:auto;
 		width:auto;
 	 box-sizing: border-box;
