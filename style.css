@@ -151,10 +151,10 @@ svg:hover text{
 		width:auto;
 	 box-sizing: border-box;
 white-space: pre-wrap;	
-	 letter-spacing: 26px;
 }
 
 .ltr {
+	 letter-spacing: 26px;
 	font-size: 25px; 
 }
 
