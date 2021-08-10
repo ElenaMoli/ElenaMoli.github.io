@@ -6,8 +6,8 @@
 body {
 	/*display: inline-block;*/
 	
-  justify-content: center;
-  align-items: center;
+  /*justify-content: center;
+  align-items: center;*/
 	
 	padding: 0;
   margin: 0;
@@ -141,6 +141,11 @@ svg:hover text{
 
 /*.random {
 }*/
+
+.all {
+justify-content: center;
+  align-items: center;	
+}
 
 .not {
 	font-size: 25px; 
