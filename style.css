@@ -140,13 +140,18 @@ svg:hover text{
 
 /*.random {
 }*/
+.all {
+	left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
 
 .not {
 	font-size: 25px; 
 }
 
 .random {
-	margin-top: 10%;
+	/*margin-top: 10%;*/
 	text-align: center;
 	height:auto;
 		width:auto;
