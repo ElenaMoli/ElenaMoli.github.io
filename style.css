@@ -707,8 +707,8 @@ em.planet.right {
 	 font-size: 10px;
     letter-spacing: 6px;
     transform: translate(-50%, -50%);
-	left:53%;
-    top:55%;
+	left:50%;
+    top:50%;
     max-width:100%;
     max-height: 100%;
     color: black;
