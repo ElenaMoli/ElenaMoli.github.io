@@ -153,6 +153,7 @@ justify-content: center;
 }
 
 .random {
+	display: inline-block;
 	letter-spacing: 26px;
 	font-size: 25px; 
 	margin-top: 10%;
