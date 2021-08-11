@@ -6055,12 +6055,20 @@ p.mast__text {
 /*Под мобилку*/
 @media only screen and (max-width : 992px) {
    .fixed-overlay .center-img {
-    width: 85%;
-    height: 45%;
+    width: 45%;
+    height: 85%;
 }
-   .mast__text {
+   .mast__text { 
+    left:55%;
+    font-size: 6px;
+    letter-spacing: 1px;
     display: inline-block;
-    width: 65%;
+    width: 38%;
+    height: 60%;
+}
+   .closeButton {
+    margin-top: 6%;
+    margin-left: 66%;
 }
 }
 
@@ -6114,13 +6122,21 @@ p.mast__text {
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
-  .fixed-overlay .center-img {
-    width: 85%;
-    height: 45%;
+.fixed-overlay .center-img {
+    width: 45%;
+    height: 85%;
 }
-  .mast__text {
+   .mast__text { 
+    left:55%;
+    font-size: 6px;
+    letter-spacing: 1px;
     display: inline-block;
-    width: 65%;
+    width: 38%;
+    height: 60%;
+}
+   .closeButton {
+    margin-top: 6%;
+    margin-left: 66%;
 }
 }
 
