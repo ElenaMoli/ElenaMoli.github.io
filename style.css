@@ -6079,7 +6079,7 @@ p.mast__text {
     height: 75%;
 }
    .mast__text { 
-    left:60%;
+    left:57%;
     font-size: 6px;
     letter-spacing: 1px;
     display: inline-block;
@@ -6087,8 +6087,8 @@ p.mast__text {
     height: 55%;
 }
    .closeButton {
-    margin-top: 16%;
-    margin-left: 70%;
+    margin-top: 11%;
+    margin-left: 68%;
 }
 }
 
