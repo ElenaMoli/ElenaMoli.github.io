@@ -6127,6 +6127,7 @@ p.mast__text {
     height: 45%;
 }
    .mast__text { 
+	   top:50%;
     left:55%;
     font-size: 6px;
     letter-spacing: 1px;
