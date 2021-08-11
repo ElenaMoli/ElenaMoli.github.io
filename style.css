@@ -6102,6 +6102,7 @@ p.mast__text {
 	font-size: 10px; 
 }
 .ltr {
+	 letter-spacing: 3px;
 	font-size: 10px; 
 }
 }
