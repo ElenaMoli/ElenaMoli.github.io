@@ -50,9 +50,7 @@ width: 100%;
 }
 
 .fixed-overlay .center-img {
-	 position: relative;
-        width: min-content;
-   /* display: block;
+    display: block;
   position: absolute;
     transform: translate(-50%, -50%);
     max-width:100%;
@@ -61,7 +59,7 @@ width: 100%;
     height: 90%;
     left:50%;
     top:50%;
-    opacity: 0.8; */
+    opacity: 0.8; 
 }
 .close {
 	 position: absolute;
