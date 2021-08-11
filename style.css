@@ -6109,9 +6109,8 @@ p.mast__text {
     width: 40%;
     height: 55%;
 }
-   .closeButton {
-    margin-top: 11%;
-    margin-left: 68%;
+  p.mast__text {
+	line-height: 2;
 }
 }
 
