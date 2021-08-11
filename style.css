@@ -5,10 +5,10 @@
         margin: 0;
 	 box-sizing: border-box;
 }
-.container {
+/*.container {
         position: relative;
         width: min-content;
-    }
+    }*/
  
    
 html, body {width:100%; overflow-x:hidden}
