@@ -6123,8 +6123,8 @@ p.mast__text {
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
 .fixed-overlay .center-img {
-    width: 45%;
-    height: 85%;
+    width: 85%;
+    height: 45%;
 }
    .mast__text { 
     left:55%;
