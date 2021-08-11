@@ -6086,6 +6086,9 @@ p.mast__text {
     display: inline-block;
     width: 65%;
 }
+    p.mast__text {
+    line-height: 1.5;
+}
 }
 
 /* Custom, iPhone Retina */
