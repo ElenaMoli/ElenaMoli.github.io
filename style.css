@@ -6091,12 +6091,10 @@ p.mast__text {
     height: 61%;
 }
    .mast__text {
+	   top: 60%;
     font-size: 6px;
     display: inline-block;
     width: 65%;
-}
-    p.mast__text {
-    line-height: 1.5;
 }
    .not {
 	font-size: 10px; 
