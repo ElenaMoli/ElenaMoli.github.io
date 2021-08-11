@@ -39,6 +39,7 @@ body {
 .fixed-overlay {
 	 position: relative;
         width: min-content;
+	  display: none;
 	/* position: fixed;
   overflow: auto;
 
