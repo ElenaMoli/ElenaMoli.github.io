@@ -6105,6 +6105,9 @@ p.mast__text {
 	 letter-spacing: 10px;
 	font-size: 15px; 
 }
+	.all {
+	margin-top: 50%;
+}
 }
 
 /* Custom, iPhone Retina */
