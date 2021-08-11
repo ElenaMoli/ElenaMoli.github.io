@@ -6099,7 +6099,7 @@ p.mast__text {
 @media only screen and (max-width : 768px) {
    .fixed-overlay .center-img {
     width: 50%;
-    height: 75%;
+    height: 85%;
 }
    .mast__text { 
     left:57%;
