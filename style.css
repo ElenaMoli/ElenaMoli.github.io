@@ -6071,6 +6071,7 @@ p.mast__text {
     height: 85%;
 }
    .mast__text {
+    font-size: 6px;
     display: inline-block;
     width: 40%;
 }
