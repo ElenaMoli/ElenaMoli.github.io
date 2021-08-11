@@ -733,7 +733,7 @@ em.planet.right {
     display: block;
     position: fixed;
 	 font-size: 10px;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
     transform: translate(-50%, -50%);
 	left:55%;
     top:50%;
@@ -743,7 +743,7 @@ em.planet.right {
 	white-space: pre-wrap;
 }
 p.mast__text {
-	line-height: 2.5;
+	line-height: 3;
 }
 .mast__text span {
   -webkit-animation: letter-glow 0.7s 0s ease both;
