@@ -6070,11 +6070,12 @@ p.mast__text {
     width: 45%;
     height: 85%;
 }
-   .mast__text {
+   .mast__text { 
+    left:55%;
     font-size: 6px;
     letter-spacing: 1px;
     display: inline-block;
-    width: 43%;
+    width: 38%;
     height: 60%;
 }
 }
