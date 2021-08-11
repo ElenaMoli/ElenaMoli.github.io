@@ -6073,8 +6073,11 @@ p.mast__text {
    .mast__text {
     font-size: 6px;
     display: inline-block;
-    width: 40%;
-    height: 80%;
+    width: 36%;
+    height: 78%;
+}
+    p.mast__text {
+    line-height: 1.5;
 }
 }
 
