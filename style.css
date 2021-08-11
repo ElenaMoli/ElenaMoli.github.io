@@ -6092,13 +6092,13 @@ p.mast__text {
 }
    .mast__text {
 	   top: 60%;
-    font-size: 10px;
+    font-size: 7px;
     display: inline-block;
     width: 65%;
 }
 	.closeButton {
-    margin-top: 30%;
-    margin-left: 66%;
+    margin-top: 36%;
+    margin-left: 72%;
 }
    .not {
 	font-size: 10px; 
