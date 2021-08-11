@@ -6098,8 +6098,11 @@ p.mast__text {
     p.mast__text {
     line-height: 1.5;
 }
-   .random {
-margin-left: 3%;
+   .not {
+	font-size: 10px; 
+}
+.ltr {
+	font-size: 10px; 
 }
 }
 
