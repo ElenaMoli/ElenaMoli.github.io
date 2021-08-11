@@ -6075,16 +6075,16 @@ p.mast__text {
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
    .fixed-overlay .center-img {
-    width: 45%;
-    height: 85%;
+    width: 85%;
+    height: 45%;
 }
    .mast__text { 
     left:55%;
     font-size: 6px;
     letter-spacing: 1px;
     display: inline-block;
-    width: 38%;
-    height: 60%;
+    width: 60%;
+    height: 38%;
 }
    .closeButton {
     margin-top: 6%;
