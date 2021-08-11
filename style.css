@@ -37,9 +37,7 @@ body {
 
 /* Поздравления */
 .fixed-overlay {
-	 position: relative;
-        width: min-content;
-    
+	 position: fixed;
   overflow: auto;
 
 
