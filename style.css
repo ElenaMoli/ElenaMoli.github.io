@@ -55,7 +55,7 @@ body {
 .close {
   width: 1em;
   height: 1em;
-  background-color: black;
+  background-color: red;
   clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
 }
 
@@ -69,10 +69,10 @@ width: 10px;
     cursor: pointer;
 }
 
-
+/*
 .container .closeButton:hover {
     background-color: black;
-}
+}*/
 
 /* Открыть Поздравления */
 #openButton {
@@ -6077,6 +6077,10 @@ p.mast__text {
     display: inline-block;
     width: 38%;
     height: 60%;
+}
+   .closeButton {
+    margin-top: 6%;
+    margin-left: 66%;
 }
 }
 
