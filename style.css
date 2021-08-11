@@ -6072,7 +6072,7 @@ p.mast__text {
 }
    .mast__text {
     font-size: 6px;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
     display: inline-block;
     width: 36%;
     height: 60%;
