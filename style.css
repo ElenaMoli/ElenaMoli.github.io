@@ -37,7 +37,9 @@ body {
 
 /* Поздравления */
 .fixed-overlay {
-	 position: fixed;
+	 position: relative;
+        width: min-content;
+	/* position: fixed;
   overflow: auto;
 
 width: 100%;
@@ -46,7 +48,7 @@ width: 100%;
   display: none;
   left:50%;
   top:50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
 }
 
 .fixed-overlay .center-img {
